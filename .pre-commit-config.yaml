@@ -1,3 +1,4 @@
+# This file is managed by 'repo_helper'. Don't edit it directly.
 ---
 
 exclude: ^$
@@ -7,6 +8,11 @@ ci:
   skip: [taplo-lint]
 
 repos:
+ - repo: https://github.com/repo-helper/pyproject-parser
+   rev: v0.14.0
+   hooks:
+    - id: reformat-pyproject
+
  - repo: https://github.com/pre-commit/pre-commit-hooks
    rev: v3.4.0
    hooks:
@@ -32,15 +38,28 @@ repos:
       args: []
 
  - repo: https://github.com/domdfcoding/pre-commit-hooks
-   rev: v0.7.0
+   rev: v0.8.0
    hooks:
     - id: requirements-txt-sorter
       args:
        - --allow-git
+    - id: check-docstring-first
+      exclude: ^(doc-source/conf|__pkginfo__|setup|tests/.*)\.py$
     - id: bind-requirements
       args:
        - --python-min
        - '3.10'
+
+ - repo: https://github.com/python-formate/flake8-dunder-all
+   rev: v0.5.0
+   hooks:
+    - id: ensure-dunder-all
+      files: ^music_map/.*\.py$
+
+ - repo: https://github.com/domdfcoding/flake2lint
+   rev: v0.4.3
+   hooks:
+    - id: flake2lint
 
  - repo: https://github.com/pre-commit/pygrep-hooks
    rev: v1.10.0
@@ -64,6 +83,13 @@ repos:
     - id: remove-crlf
     - id: forbid-crlf
 
+ - repo: https://github.com/python-formate/snippet-fmt
+   rev: v0.3.1
+   hooks:
+    - id: snippet-fmt
+      additional_dependencies:
+       - formate-trailing-commas>=0.1.1
+
  - repo: https://github.com/python-formate/formate
    rev: v1.2.1
    hooks:
@@ -74,5 +100,12 @@ repos:
       types_or:
        - python
        - pyi
-       - javascript
-       - ts
+
+ - repo: https://github.com/python-coincidence/dep_checker
+   rev: v0.9.0
+   hooks:
+    - id: dep_checker
+      args:
+       - music_map
+
+# Custom hooks can be added below this comment

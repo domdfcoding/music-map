@@ -34,6 +34,7 @@ lines_between_types = 0
 use_parentheses = true
 remove_redundant_aliases = true
 default_section = "THIRDPARTY"
+known_first_party = [ "music_map",]
 
 [config]
 indent = "	"
