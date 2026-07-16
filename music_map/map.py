@@ -31,6 +31,7 @@ from typing import Any
 
 # 3rd party
 import folium
+from domdf_folium_tools.elements import add_to
 from folium.plugins import MarkerCluster
 from folium_map_search import MapSearchControl, MapSearchProvider
 from folium_reset_control import ResetViewControl
@@ -40,6 +41,12 @@ __all__ = ["make_map", "popup"]
 
 
 def popup(text: str) -> folium.Popup:
+	"""
+	Create a popup.
+
+	:param text:
+	"""
+
 	popup_text = text.replace('\n', "<br>")
 	style = "min-width: fit-content; text-wrap: nowrap;"
 	return folium.Popup(f"<div class='text-center', style='{style}'>{popup_text}</div>")
@@ -53,11 +60,12 @@ def make_map(origins: dict[str, Any]) -> folium.Map:
 	"""
 
 	zoom_start = 3
-	m = ZoomStateMap([25, 0], maxZoom=13, zoom_start=zoom_start)
+	map_centre = (25, 0)
+	m = ZoomStateMap(map_centre, maxZoom=13, zoom_start=zoom_start)
 
-	mc = MarkerCluster().add_to(m)
+	mc = add_to(MarkerCluster(), m, "artists")
 	ZoomStateJS().add_to(m)
-	ResetViewControl(centre=m.location, zoom=zoom_start).add_to(m)
+	ResetViewControl(centre=map_centre, zoom=zoom_start).add_to(m)
 	search_provider = MapSearchProvider(layer=mc, map=m, feature_type="settlement")
 	MapSearchControl(
 			provider=search_provider,

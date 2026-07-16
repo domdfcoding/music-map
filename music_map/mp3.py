@@ -37,6 +37,11 @@ __all__ = ["iter_artists"]
 
 
 def iter_artists(path: PathPlus) -> Iterator[str]:
+	"""
+	Returns the names of artists in the music collection.
+
+	:param path: Directory containing MP3 files.
+	"""
 
 	artists = set()
 
@@ -59,7 +64,7 @@ def iter_artists(path: PathPlus) -> Iterator[str]:
 
 		if "TPE2" in tags:
 			album_artist: TPE2 = tags["TPE2"]
-			if album_artist.text[0].lower() in {"various", "various artists"}:
+			if album_artist.text[0].lower() in {"various", "various artists"}:  # type: ignore[attr-defined]
 				continue
 
 		artists.add(artist)

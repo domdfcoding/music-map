@@ -36,11 +36,18 @@ from urllib.parse import urlparse
 # 3rd party
 from requests import Session
 
-__all__ = ["WikidataAPI", "get_english_label", "get_origin_id", "get_start_date"]
+__all__ = ["WikidataAPI", "get_english_label", "get_origin_id", "get_start_year"]
 
 
-def get_start_date(wikidata_data: dict) -> int:
-	for code in ["P2031", "P571"]:  # P571: date of inception
+def get_start_year(wikidata_data: dict) -> int:
+	"""
+	Find the artist's start year or year of formation.
+
+	:param wikidata_data: JSON data from Wikidata for an entity.
+	"""
+
+	# TODO: DOB
+	for code in ["P2031", "P571"]:  # P2031: start of work period, P571: date of inception
 		if code in wikidata_data["statements"]:
 			value = wikidata_data["statements"][code][0]["value"]
 			if value["type"] != "novalue":
@@ -50,6 +57,12 @@ def get_start_date(wikidata_data: dict) -> int:
 
 
 def get_origin_id(wikidata_data: dict) -> str | None:
+	"""
+	Returns the Wikidata entity ID for the artist's origin (location of formation or place of birth), if available.
+
+	:param wikidata_data: JSON data from Wikidata for an entity.
+	"""
+
 	for code in ["P740", "P19", "P27", "P495"]:
 		# P740: location of formation, P19: place of birth, P27: citizenship, P495: country of origin
 		if code in wikidata_data["statements"]:
@@ -61,16 +74,33 @@ def get_origin_id(wikidata_data: dict) -> str | None:
 
 
 def get_english_label(wikidata_data: dict) -> str:
+	"""
+	Returns the English-language label for the given entity.
+
+	:param wikidata_data: JSON data from Wikidata for an entity.
+	"""
+
 	labels: dict[str, str] = wikidata_data["labels"]
 	return labels.get("en", labels.get("mul", ''))
 
 
 class WikidataAPI:
+	"""
+	Interface to Wikidata's APIs.
+
+	:param session:
+	"""
 
 	def __init__(self, session: Session):
 		self.session = session
 
 	def query_sparql(self, query: str) -> dict[str, Any]:
+		"""
+		Query the SPARQL endpoint.
+
+		:param query:
+		"""
+
 		# TODO: rate limiter
 		resp = self.session.get(
 				"https://query.wikidata.org/sparql",
@@ -81,6 +111,12 @@ class WikidataAPI:
 		return resp.json()
 
 	def get_entity(self, entity_id: str) -> dict[str, Any]:
+		"""
+		Get an entity by ID.
+
+		:param entity_id:
+		"""
+
 		resp = self.session.get(f"https://www.wikidata.org/w/rest.php/wikibase/v1/entities/items/{entity_id}")
 		resp.raise_for_status()
 		return resp.json()
@@ -92,6 +128,16 @@ class WikidataAPI:
 			category_code: str,
 			language: str = "@en",
 			) -> dict[str, Any] | None:
+		"""
+		Gather data about the given artist.
+
+		:param artist:
+		:param property_code:
+		:param category_code:
+		:param language: Language to filter labels to, if any.
+		"""
+
+		# TODO: docstring params
 
 		if 's' not in property_code:
 			instanceof = "ps:P31"
@@ -137,7 +183,7 @@ class WikidataAPI:
 			# 	print("Disc jockey, skipping")
 			# 	continue
 
-			start_of_work_period = get_start_date(json_response)
+			start_of_work_period = get_start_year(json_response)
 			location_of_formation_id = get_origin_id(json_response)
 
 			if not location_of_formation_id:
