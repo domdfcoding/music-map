@@ -83,13 +83,13 @@
 
 
             var mapOptions = {
-  "zoom": 1,
+  "zoom": 3,
   "zoomControl": true,
   "preferCanvas": false,
   "maxZoom": 13,
 };
             var defaultZoom = mapOptions["zoom"] ?? 0;
-            var urlZoomState = zoomStateFromURL(defaultZoom, L.latLng([0.0, 0.0]));
+            var urlZoomState = zoomStateFromURL(defaultZoom, L.latLng([25.0, 0.0]));
             mapOptions["zoom"] = urlZoomState["zoomLvl"]
 
             var map_0125d8a7d5e6951054fe0cab9b68c771 = L.map(
@@ -5357,6 +5357,31 @@
 
 
 
+            var marker_910eadc280ecf72f052a03b9904aebf0 = L.marker(
+                [51.8911, -0.42793],
+                {
+  "searchName": "Hak Baker",
+}
+            ).addTo(marker_cluster_fd4f139bc1537b8204a20f7be0a720a4);
+
+
+        var popup_7f3e01ef7ba9225a5b597d6edf5bae8c = L.popup({
+  "maxWidth": "100%",
+});
+
+
+
+                var html_a8d90a69e3e431102e53225ed86c09b6 = $(`<div id="html_a8d90a69e3e431102e53225ed86c09b6" style="width: 100.0%; height: 100.0%;"><div class='text-center', style='min-width: fit-content; text-wrap: nowrap;'><h3><a href='https://en.wikipedia.org/wiki/Hak_Baker'>Hak Baker</a></h3><h4><a href='https://en.wikipedia.org/wiki/Borough_of_Luton'>Luton</a></h4></div></div>`)[0];
+                popup_7f3e01ef7ba9225a5b597d6edf5bae8c.setContent(html_a8d90a69e3e431102e53225ed86c09b6);
+
+
+
+        marker_910eadc280ecf72f052a03b9904aebf0.bindPopup(popup_7f3e01ef7ba9225a5b597d6edf5bae8c)
+        ;
+
+
+
+
             marker_cluster_fd4f139bc1537b8204a20f7be0a720a4.addTo(map_0125d8a7d5e6951054fe0cab9b68c771);
 
 
@@ -5366,7 +5391,7 @@
 
 
 				var reset_view_control_59ced01963fee5a81f1351565b80c730 = new ResetViewControl(
-					{"centre": [0.0, 0.0], "icon": "fa-solid fa-arrow-rotate-left", "zoom": 1}
+					{"centre": [25.0, 0.0], "icon": "fa-solid fa-arrow-rotate-left", "zoom": 3}
 				).addTo(map_0125d8a7d5e6951054fe0cab9b68c771);
 
 
