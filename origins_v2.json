@@ -2308,5 +2308,49 @@
     ],
     "link": "https://en.wikipedia.org/wiki/Hak_Baker",
     "origin_link": "https://en.wikipedia.org/wiki/Borough_of_Luton"
+  },
+  "Childish Gambino": {
+    "name": "Donald Glover",
+    "id": "Q1239933",
+    "location": "Edwards Air Force Base",
+    "coordinates": [
+      34.923890144074896,
+      -117.89125635635864
+    ],
+    "link": "https://en.wikipedia.org/wiki/Donald_Glover",
+    "origin_link": "https://en.wikipedia.org/wiki/Edwards_Air_Force_Base"
+  },
+  "Chas 'n' Dave": {
+    "name": "Chas & Dave",
+    "id": "Q1067929",
+    "location": "United Kingdom",
+    "coordinates": [
+      54.6,
+      -2
+    ],
+    "link": "https://en.wikipedia.org/wiki/Chas_%26_Dave",
+    "origin_link": "https://en.wikipedia.org/wiki/United_Kingdom"
+  },
+  "Gorgon City": {
+    "name": "Gorgon City",
+    "id": "Q16839700",
+    "location": "North London",
+    "coordinates": [
+      51.5496197,
+      -0.1676141
+    ],
+    "link": "https://en.wikipedia.org/wiki/Gorgon_City",
+    "origin_link": "https://en.wikipedia.org/wiki/North_London"
+  },
+  "Bob Dylan": {
+    "name": "Bob Dylan",
+    "id": "Q392",
+    "location": "Duluth",
+    "coordinates": [
+      46.784444444444446,
+      -92.10527777777777
+    ],
+    "link": "https://en.wikipedia.org/wiki/Bob_Dylan",
+    "origin_link": "https://en.wikipedia.org/wiki/Duluth,_Minnesota"
   }
 }
