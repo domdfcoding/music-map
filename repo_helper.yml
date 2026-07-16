@@ -20,3 +20,8 @@ python_versions:
   - "3.11"
   - "3.12"
   - "3.13"
+
+
+additional_ignore:
+ - wikidata_cache/
+ - old/
