@@ -1,0 +1,78 @@
+---
+
+exclude: ^$
+
+ci:
+  autoupdate_schedule: quarterly
+  skip: [taplo-lint]
+
+repos:
+ - repo: https://github.com/pre-commit/pre-commit-hooks
+   rev: v3.4.0
+   hooks:
+    - id: check-added-large-files
+    - id: check-ast
+    - id: fix-byte-order-marker
+    - id: check-case-conflict
+    - id: check-executables-have-shebangs
+    - id: check-json
+    - id: check-yaml
+    - id: check-merge-conflict
+    - id: check-symlinks
+    - id: check-vcs-permalinks
+    - id: detect-private-key
+    - id: trailing-whitespace
+    - id: mixed-line-ending
+    - id: end-of-file-fixer
+
+ - repo: https://github.com/domdfcoding/taplo-pre-commit
+   rev: v0.10.0
+   hooks:
+    - id: taplo-lint
+      args: []
+
+ - repo: https://github.com/domdfcoding/pre-commit-hooks
+   rev: v0.7.0
+   hooks:
+    - id: requirements-txt-sorter
+      args:
+       - --allow-git
+    - id: bind-requirements
+      args:
+       - --python-min
+       - '3.10'
+
+ - repo: https://github.com/pre-commit/pygrep-hooks
+   rev: v1.10.0
+   hooks:
+    - id: python-no-eval
+    - id: rst-backticks
+    - id: rst-directive-colons
+    - id: rst-inline-touching-normal
+
+ - repo: https://github.com/python-formate/pyupgrade
+   rev: bbe3007
+   hooks:
+    - id: pyupgrade
+      args:
+       - --py310-plus
+       - --keep-runtime-typing
+
+ - repo: https://github.com/Lucas-C/pre-commit-hooks
+   rev: v1.5.1
+   hooks:
+    - id: remove-crlf
+    - id: forbid-crlf
+
+ - repo: https://github.com/python-formate/formate
+   rev: v1.2.1
+   hooks:
+    - id: formate
+      exclude: ^(doc-source/conf|__pkginfo__|setup)\.(_)?py$
+      additional_dependencies:
+       - formate-trailing-commas>=0.1.1
+      types_or:
+       - python
+       - pyi
+       - javascript
+       - ts

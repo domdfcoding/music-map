@@ -1,0 +1,9 @@
+cachecontrol[filecache]>=0.14.4
+domdf-folium-tools>=0.1.0b34
+domdf-python-tools>=3.10.0
+folium>=0.20.0
+folium-map-search @ git+https://github.com/domdfcoding/folium-map-search
+folium-reset-control @ git+https://github.com/domdfcoding/folium-reset-control
+folium-zoom-state>=0.1.0
+mutagen>=1.48.1
+requests>=2.34.2

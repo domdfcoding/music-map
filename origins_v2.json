@@ -1,0 +1,2312 @@
+{
+  "Oasis": {
+    "name": "Oasis",
+    "id": "Q382890",
+    "location": "Manchester",
+    "coordinates": [
+      53.466666666667,
+      -2.2333333333333
+    ],
+    "link": "https://en.wikipedia.org/wiki/Oasis_(band)",
+    "origin_link": "https://en.wikipedia.org/wiki/Manchester"
+  },
+  "Gary Barlow": {
+    "name": "Gary Barlow",
+    "id": "Q328753",
+    "location": "Frodsham",
+    "coordinates": [
+      53.295,
+      -2.725
+    ],
+    "link": "https://en.wikipedia.org/wiki/Gary_Barlow",
+    "origin_link": "https://en.wikipedia.org/wiki/Frodsham"
+  },
+  "Kirsty MacColl": {
+    "name": "Kirsty MacColl",
+    "id": "Q444671",
+    "location": "Croydon",
+    "coordinates": [
+      51.3727,
+      -0.1099
+    ],
+    "link": "https://en.wikipedia.org/wiki/Kirsty_MacColl",
+    "origin_link": "https://en.wikipedia.org/wiki/Croydon"
+  },
+  "Elton John": {
+    "name": "Elton John",
+    "id": "Q2808",
+    "location": "Pinner",
+    "coordinates": [
+      51.5932,
+      -0.3894
+    ],
+    "link": "https://en.wikipedia.org/wiki/Elton_John",
+    "origin_link": "https://en.wikipedia.org/wiki/Pinner"
+  },
+  "Europe": {
+    "name": "Europe",
+    "id": "Q185144",
+    "location": "Upplands V\u00e4sby",
+    "coordinates": [
+      59.516666666667,
+      17.916666666667
+    ],
+    "link": "https://en.wikipedia.org/wiki/Europe_(band)",
+    "origin_link": "https://en.wikipedia.org/wiki/Upplands_V%C3%A4sby"
+  },
+  "Julian Lennon": {
+    "name": "Julian Lennon",
+    "id": "Q357974",
+    "location": "Liverpool",
+    "coordinates": [
+      53.407222222222224,
+      -2.9916666666666667
+    ],
+    "link": "https://en.wikipedia.org/wiki/Julian_Lennon",
+    "origin_link": "https://en.wikipedia.org/wiki/Liverpool"
+  },
+  "Jade Bird": {
+    "name": "Jade Bird",
+    "id": "Q42517649",
+    "location": "Hexham",
+    "coordinates": [
+      54.966666666667,
+      -2.1
+    ],
+    "link": "https://en.wikipedia.org/wiki/Jade_Bird",
+    "origin_link": "https://en.wikipedia.org/wiki/Hexham"
+  },
+  "Akira Yamaoka": {
+    "name": "Akira Yamaoka",
+    "id": "Q315850",
+    "location": "Niigata",
+    "coordinates": [
+      37.91619444444444,
+      139.0363888888889
+    ],
+    "link": "https://en.wikipedia.org/wiki/Akira_Yamaoka",
+    "origin_link": "https://en.wikipedia.org/wiki/Niigata_(city)"
+  },
+  "Franz Ferdinand": {
+    "name": "Franz Ferdinand",
+    "id": "Q173180",
+    "location": "Glasgow",
+    "coordinates": [
+      55.861111111111114,
+      -4.25
+    ],
+    "link": "https://en.wikipedia.org/wiki/Franz_Ferdinand_(band)",
+    "origin_link": "https://en.wikipedia.org/wiki/Glasgow"
+  },
+  "Dawid Podsiad\u0142o": {
+    "name": "Dawid Podsiad\u0142o",
+    "id": "Q5242353",
+    "location": "D\u0105browa G\u00f3rnicza",
+    "coordinates": [
+      50.3308692,
+      19.2078918
+    ],
+    "link": "https://en.wikipedia.org/wiki/Dawid_Podsiad%C5%82o",
+    "origin_link": "https://en.wikipedia.org/wiki/D%C4%85browa_G%C3%B3rnicza"
+  },
+  "Genesis": {
+    "name": "Genesis",
+    "id": "Q151012",
+    "location": "Godalming",
+    "coordinates": [
+      51.185,
+      -0.61
+    ],
+    "link": "https://en.wikipedia.org/wiki/Genesis_(band)",
+    "origin_link": "https://en.wikipedia.org/wiki/Godalming"
+  },
+  "The Killers": {
+    "name": "The Killers",
+    "id": "Q220730",
+    "location": "Las Vegas",
+    "coordinates": [
+      36.16722222222222,
+      -115.14861111111111
+    ],
+    "link": "https://en.wikipedia.org/wiki/The_Killers",
+    "origin_link": "https://en.wikipedia.org/wiki/Las_Vegas"
+  },
+  "Paramore": {
+    "name": "Paramore",
+    "id": "Q473466",
+    "location": "Franklin",
+    "coordinates": [
+      35.929166666667,
+      -86.8575
+    ],
+    "link": "https://en.wikipedia.org/wiki/Paramore",
+    "origin_link": "https://en.wikipedia.org/wiki/Franklin,_Tennessee"
+  },
+  "The Royal Guardsmen": {
+    "name": "The Royal Guardsmen",
+    "id": "Q464564",
+    "location": "Ocala",
+    "coordinates": [
+      29.1875,
+      -82.141388888889
+    ],
+    "link": "https://en.wikipedia.org/wiki/The_Royal_Guardsmen",
+    "origin_link": "https://en.wikipedia.org/wiki/Ocala,_Florida"
+  },
+  "Jessie J": {
+    "name": "Jessie J",
+    "id": "Q18814",
+    "location": "Chadwell Heath",
+    "coordinates": [
+      51.5757,
+      0.144
+    ],
+    "link": "https://en.wikipedia.org/wiki/Jessie_J",
+    "origin_link": "https://en.wikipedia.org/wiki/Chadwell_Heath"
+  },
+  "First Aid Kit": {
+    "name": "First Aid Kit",
+    "id": "Q975437",
+    "location": "Stockholm",
+    "coordinates": [
+      59.329444444444,
+      18.068611111111
+    ],
+    "link": "https://en.wikipedia.org/wiki/First_Aid_Kit_(band)",
+    "origin_link": "https://en.wikipedia.org/wiki/Stockholm"
+  },
+  "The Rolling Stones": {
+    "name": "The Rolling Stones",
+    "id": "Q11036",
+    "location": "London",
+    "coordinates": [
+      51.507222222222,
+      -0.1275
+    ],
+    "link": "https://en.wikipedia.org/wiki/The_Rolling_Stones",
+    "origin_link": "https://en.wikipedia.org/wiki/London"
+  },
+  "Don McLean": {
+    "name": "Don McLean",
+    "id": "Q57339",
+    "location": "New Rochelle",
+    "coordinates": [
+      40.908611111111,
+      -73.781944444444
+    ],
+    "link": "https://en.wikipedia.org/wiki/Don_McLean",
+    "origin_link": "https://en.wikipedia.org/wiki/New_Rochelle,_New_York"
+  },
+  "Dire Straits": {
+    "name": "Dire Straits",
+    "id": "Q50040",
+    "location": "Deptford",
+    "coordinates": [
+      51.478,
+      -0.0265
+    ],
+    "link": "https://en.wikipedia.org/wiki/Dire_Straits",
+    "origin_link": "https://en.wikipedia.org/wiki/Deptford"
+  },
+  "Duffy": {
+    "name": "Duffy",
+    "id": "Q192587",
+    "location": "Cardiff",
+    "coordinates": [
+      51.48166666666667,
+      -3.1791666666666667
+    ],
+    "link": "https://en.wikipedia.org/wiki/Duffy_(singer)",
+    "origin_link": "https://en.wikipedia.org/wiki/Cardiff"
+  },
+  "The Chainsmokers": {
+    "name": "The Chainsmokers",
+    "id": "Q7721993",
+    "location": "New York City",
+    "coordinates": [
+      40.71277777777778,
+      -74.00611111111111
+    ],
+    "link": "https://en.wikipedia.org/wiki/The_Chainsmokers",
+    "origin_link": "https://en.wikipedia.org/wiki/New_York_City"
+  },
+  "T. Rex": {
+    "name": "T. Rex",
+    "id": "Q211770",
+    "location": "London",
+    "coordinates": [
+      51.507222222222,
+      -0.1275
+    ],
+    "link": "https://en.wikipedia.org/wiki/T._Rex_(band)",
+    "origin_link": "https://en.wikipedia.org/wiki/London"
+  },
+  "Emperor Rosko": {
+    "name": "Emperor Rosko",
+    "id": "Q3402414",
+    "location": "Los Angeles",
+    "coordinates": [
+      34.05223,
+      -118.24368
+    ],
+    "link": "https://en.wikipedia.org/wiki/Emperor_Rosko",
+    "origin_link": "https://en.wikipedia.org/wiki/Los_Angeles"
+  },
+  "Karmin": {
+    "name": "Karmin",
+    "id": "Q1167969",
+    "location": "Boston",
+    "coordinates": [
+      42.360277777777775,
+      -71.05777777777777
+    ],
+    "link": "https://en.wikipedia.org/wiki/Karmin",
+    "origin_link": "https://en.wikipedia.org/wiki/Boston"
+  },
+  "Supertramp": {
+    "name": "Supertramp",
+    "id": "Q176457",
+    "location": "London",
+    "coordinates": [
+      51.507222222222,
+      -0.1275
+    ],
+    "link": "https://en.wikipedia.org/wiki/Supertramp",
+    "origin_link": "https://en.wikipedia.org/wiki/London"
+  },
+  "Rizzle Kicks": {
+    "name": "Rizzle Kicks",
+    "id": "Q1323653",
+    "location": "Brighton",
+    "coordinates": [
+      50.82083333333333,
+      -0.1375
+    ],
+    "link": "https://en.wikipedia.org/wiki/Rizzle_Kicks",
+    "origin_link": "https://en.wikipedia.org/wiki/Brighton"
+  },
+  "Hockey": {
+    "name": "Hockey",
+    "id": "Q919531",
+    "location": "Portland",
+    "coordinates": [
+      45.515,
+      -122.67916666666666
+    ],
+    "link": "https://en.wikipedia.org/wiki/Hockey_(band)",
+    "origin_link": "https://en.wikipedia.org/wiki/Portland,_Oregon"
+  },
+  "Bonnie Tyler": {
+    "name": "Bonnie Tyler",
+    "id": "Q156491",
+    "location": "Skewen",
+    "coordinates": [
+      51.65817,
+      -3.84674
+    ],
+    "link": "https://en.wikipedia.org/wiki/Bonnie_Tyler",
+    "origin_link": "https://en.wikipedia.org/wiki/Skewen"
+  },
+  "The Chemical Brothers": {
+    "name": "The Chemical Brothers",
+    "id": "Q208507",
+    "location": "Manchester",
+    "coordinates": [
+      53.466666666667,
+      -2.2333333333333
+    ],
+    "link": "https://en.wikipedia.org/wiki/The_Chemical_Brothers",
+    "origin_link": "https://en.wikipedia.org/wiki/Manchester"
+  },
+  "David Bowie": {
+    "name": "David Bowie",
+    "id": "Q5383",
+    "location": "Brixton",
+    "coordinates": [
+      51.4575,
+      -0.1175
+    ],
+    "link": "https://en.wikipedia.org/wiki/David_Bowie",
+    "origin_link": "https://en.wikipedia.org/wiki/Brixton"
+  },
+  "Neil Diamond": {
+    "name": "Neil Diamond",
+    "id": "Q294531",
+    "location": "Brooklyn",
+    "coordinates": [
+      40.65083333333333,
+      -73.94972222222222
+    ],
+    "link": "https://en.wikipedia.org/wiki/Neil_Diamond",
+    "origin_link": "https://en.wikipedia.org/wiki/Brooklyn"
+  },
+  "Maverick Sabre": {
+    "name": "Maverick Sabre",
+    "id": "Q538851",
+    "location": "Greater London",
+    "coordinates": [
+      51.52,
+      -0.1
+    ],
+    "link": "https://en.wikipedia.org/wiki/Maverick_Sabre",
+    "origin_link": "https://en.wikipedia.org/wiki/Greater_London"
+  },
+  "Clean Bandit": {
+    "name": "Clean Bandit",
+    "id": "Q11838808",
+    "location": "Cambridge",
+    "coordinates": [
+      52.208055555556,
+      0.1225
+    ],
+    "link": "https://en.wikipedia.org/wiki/Clean_Bandit",
+    "origin_link": "https://en.wikipedia.org/wiki/Cambridge"
+  },
+  "Arctic Monkeys": {
+    "name": "Arctic Monkeys",
+    "id": "Q170599",
+    "location": "Sheffield",
+    "coordinates": [
+      53.380833333333335,
+      -1.4702777777777778
+    ],
+    "link": "https://en.wikipedia.org/wiki/Arctic_Monkeys",
+    "origin_link": "https://en.wikipedia.org/wiki/Sheffield"
+  },
+  "Calvin Harris": {
+    "name": "Calvin Harris",
+    "id": "Q81637",
+    "location": "Dumfries",
+    "coordinates": [
+      55.066666666667,
+      -3.6166666666667
+    ],
+    "link": "https://en.wikipedia.org/wiki/Calvin_Harris",
+    "origin_link": "https://en.wikipedia.org/wiki/Dumfries"
+  },
+  "Olly Murs": {
+    "name": "Olly Murs",
+    "id": "Q552770",
+    "location": "Witham",
+    "coordinates": [
+      51.7978,
+      0.6373
+    ],
+    "link": "https://en.wikipedia.org/wiki/Olly_Murs",
+    "origin_link": "https://en.wikipedia.org/wiki/Witham"
+  },
+  "Emeli Sand\u00e9": {
+    "name": "Emeli Sand\u00e9",
+    "id": "Q470429",
+    "location": "Sunderland",
+    "coordinates": [
+      54.904444444444444,
+      -1.3811111111111112
+    ],
+    "link": "https://en.wikipedia.org/wiki/Emeli_Sand%C3%A9",
+    "origin_link": "https://en.wikipedia.org/wiki/Sunderland"
+  },
+  "Michael Jackson": {
+    "name": "Michael Jackson",
+    "id": "Q2831",
+    "location": "Gary",
+    "coordinates": [
+      41.580833333333,
+      -87.345555555556
+    ],
+    "link": "https://en.wikipedia.org/wiki/Michael_Jackson",
+    "origin_link": "https://en.wikipedia.org/wiki/Gary,_Indiana"
+  },
+  "Jean-Michel Jarre": {
+    "name": "Jean-Michel Jarre",
+    "id": "Q104326",
+    "location": "4th arrondissement of Lyon",
+    "coordinates": [
+      45.777969444444,
+      4.827925
+    ],
+    "link": "https://en.wikipedia.org/wiki/Jean-Michel_Jarre",
+    "origin_link": "https://en.wikipedia.org/wiki/4th_arrondissement_of_Lyon"
+  },
+  "Electric Light Orchestra": {
+    "name": "Electric Light Orchestra",
+    "id": "Q218255",
+    "location": "Birmingham",
+    "coordinates": [
+      52.48,
+      -1.9025
+    ],
+    "link": "https://en.wikipedia.org/wiki/Electric_Light_Orchestra",
+    "origin_link": "https://en.wikipedia.org/wiki/Birmingham"
+  },
+  "Jeff Buckley": {
+    "name": "Jeff Buckley",
+    "id": "Q215855",
+    "location": "Anaheim",
+    "coordinates": [
+      33.836111111111,
+      -117.88972222222
+    ],
+    "link": "https://en.wikipedia.org/wiki/Jeff_Buckley",
+    "origin_link": "https://en.wikipedia.org/wiki/Anaheim,_California"
+  },
+  "Imagine Dragons": {
+    "name": "Imagine Dragons",
+    "id": "Q391348",
+    "location": "Las Vegas",
+    "coordinates": [
+      36.16722222222222,
+      -115.14861111111111
+    ],
+    "link": "https://en.wikipedia.org/wiki/Imagine_Dragons",
+    "origin_link": "https://en.wikipedia.org/wiki/Las_Vegas"
+  },
+  "Ed Sheeran": {
+    "name": "Ed Sheeran",
+    "id": "Q47447",
+    "location": "Halifax",
+    "coordinates": [
+      53.725,
+      -1.863
+    ],
+    "link": "https://en.wikipedia.org/wiki/Ed_Sheeran",
+    "origin_link": "https://en.wikipedia.org/wiki/Halifax,_West_Yorkshire"
+  },
+  "Brian May": {
+    "name": "Brian May",
+    "id": "Q612067",
+    "location": "Adelaide",
+    "coordinates": [
+      -34.9275,
+      138.6
+    ],
+    "link": "https://en.wikipedia.org/wiki/Brian_May_(Australian_composer)",
+    "origin_link": "https://en.wikipedia.org/wiki/Adelaide"
+  },
+  "Charles Trenet": {
+    "name": "Charles Trenet",
+    "id": "Q212549",
+    "location": "Maison Trenet",
+    "coordinates": [
+      43.183884,
+      2.996542
+    ],
+    "link": "https://en.wikipedia.org/wiki/Charles_Trenet",
+    "origin_link": null
+  },
+  "Tom Lehrer": {
+    "name": "Tom Lehrer",
+    "id": "Q369724",
+    "location": "New York City",
+    "coordinates": [
+      40.71277777777778,
+      -74.00611111111111
+    ],
+    "link": "https://en.wikipedia.org/wiki/Tom_Lehrer",
+    "origin_link": "https://en.wikipedia.org/wiki/New_York_City"
+  },
+  "Lana Del Rey": {
+    "name": "Lana Del Rey",
+    "id": "Q37150",
+    "location": "New York City",
+    "coordinates": [
+      40.71277777777778,
+      -74.00611111111111
+    ],
+    "link": "https://en.wikipedia.org/wiki/Lana_Del_Rey",
+    "origin_link": "https://en.wikipedia.org/wiki/New_York_City"
+  },
+  "Sigrid": {
+    "name": "Sigrid",
+    "id": "Q28864768",
+    "location": "\u00c5lesund Municipality",
+    "coordinates": [
+      62.47123888888889,
+      6.154238888888889
+    ],
+    "link": "https://en.wikipedia.org/wiki/Sigrid_(singer)",
+    "origin_link": "https://en.wikipedia.org/wiki/%C3%85lesund_Municipality"
+  },
+  "Jorja Smith": {
+    "name": "Jorja Smith",
+    "id": "Q29452199",
+    "location": "Walsall",
+    "coordinates": [
+      52.58,
+      -1.98
+    ],
+    "link": "https://en.wikipedia.org/wiki/Jorja_Smith",
+    "origin_link": "https://en.wikipedia.org/wiki/Walsall"
+  },
+  "Rae Morris": {
+    "name": "Rae Morris",
+    "id": "Q17403379",
+    "location": "Blackpool",
+    "coordinates": [
+      53.816666666667,
+      -3.05
+    ],
+    "link": "https://en.wikipedia.org/wiki/Rae_Morris",
+    "origin_link": "https://en.wikipedia.org/wiki/Blackpool"
+  },
+  "AWOLNATION": {
+    "name": "Awolnation",
+    "id": "Q66413",
+    "location": "Los Angeles",
+    "coordinates": [
+      34.05223,
+      -118.24368
+    ],
+    "link": "https://en.wikipedia.org/wiki/Awolnation",
+    "origin_link": "https://en.wikipedia.org/wiki/Los_Angeles"
+  },
+  "Britney Spears": {
+    "name": "Britney Spears",
+    "id": "Q11975",
+    "location": "McComb",
+    "coordinates": [
+      31.243777777777776,
+      -90.45316666666666
+    ],
+    "link": "https://en.wikipedia.org/wiki/Britney_Spears",
+    "origin_link": "https://en.wikipedia.org/wiki/McComb,_Mississippi"
+  },
+  "Annie Mac": {
+    "name": "Annie Mac",
+    "id": "Q1955223",
+    "location": "Dublin",
+    "coordinates": [
+      53.34972222222222,
+      -6.260277777777778
+    ],
+    "link": "https://en.wikipedia.org/wiki/Annie_Mac",
+    "origin_link": "https://en.wikipedia.org/wiki/Dublin"
+  },
+  "Christina Perri": {
+    "name": "Christina Perri",
+    "id": "Q229341",
+    "location": "Philadelphia",
+    "coordinates": [
+      39.952777777778,
+      -75.163611111111
+    ],
+    "link": "https://en.wikipedia.org/wiki/Christina_Perri",
+    "origin_link": "https://en.wikipedia.org/wiki/Philadelphia"
+  },
+  "Lady Leshurr": {
+    "name": "Lady Leshurr",
+    "id": "Q16234742",
+    "location": "Solihull",
+    "coordinates": [
+      52.413,
+      -1.772
+    ],
+    "link": "https://en.wikipedia.org/wiki/Lady_Leshurr",
+    "origin_link": "https://en.wikipedia.org/wiki/Solihull"
+  },
+  "Public Service Broadcasting": {
+    "name": "Public Service Broadcasting",
+    "id": "Q7257602",
+    "location": "London",
+    "coordinates": [
+      51.507222222222,
+      -0.1275
+    ],
+    "link": "https://en.wikipedia.org/wiki/Public_Service_Broadcasting_(band)",
+    "origin_link": "https://en.wikipedia.org/wiki/London"
+  },
+  "Avicii": {
+    "name": "Avicii",
+    "id": "Q505476",
+    "location": "Stockholm",
+    "coordinates": [
+      59.329444444444,
+      18.068611111111
+    ],
+    "link": "https://en.wikipedia.org/wiki/Avicii",
+    "origin_link": "https://en.wikipedia.org/wiki/Stockholm"
+  },
+  "Wild Belle": {
+    "name": "Wild Belle",
+    "id": "Q8000526",
+    "location": "Chicago",
+    "coordinates": [
+      41.88194444444444,
+      -87.62777777777778
+    ],
+    "link": "https://en.wikipedia.org/wiki/Wild_Belle",
+    "origin_link": "https://en.wikipedia.org/wiki/Chicago"
+  },
+  "Royal Philharmonic Orchestra": {
+    "name": "Royal Philharmonic Orchestra",
+    "id": "Q856125",
+    "location": "London",
+    "coordinates": [
+      51.507222222222,
+      -0.1275
+    ],
+    "link": "https://en.wikipedia.org/wiki/Royal_Philharmonic_Orchestra",
+    "origin_link": "https://en.wikipedia.org/wiki/London"
+  },
+  "Hurts": {
+    "name": "Hurts",
+    "id": "Q493042",
+    "location": "Manchester",
+    "coordinates": [
+      53.466666666667,
+      -2.2333333333333
+    ],
+    "link": "https://en.wikipedia.org/wiki/Hurts_(duo)",
+    "origin_link": "https://en.wikipedia.org/wiki/Manchester"
+  },
+  "Paolo Nutini": {
+    "name": "Paolo Nutini",
+    "id": "Q313704",
+    "location": "Paisley",
+    "coordinates": [
+      55.845555555555556,
+      -4.4238888888888885
+    ],
+    "link": "https://en.wikipedia.org/wiki/Paolo_Nutini",
+    "origin_link": "https://en.wikipedia.org/wiki/Paisley,_Renfrewshire"
+  },
+  "Brian Reitzell": {
+    "name": "Brian Reitzell",
+    "id": "Q3644499",
+    "location": "California",
+    "coordinates": [
+      37,
+      -120
+    ],
+    "link": "https://en.wikipedia.org/wiki/Brian_Reitzell",
+    "origin_link": "https://en.wikipedia.org/wiki/California"
+  },
+  "Mike Posner": {
+    "name": "Mike Posner",
+    "id": "Q268284",
+    "location": "Detroit",
+    "coordinates": [
+      42.331666666667,
+      -83.0475
+    ],
+    "link": "https://en.wikipedia.org/wiki/Mike_Posner",
+    "origin_link": "https://en.wikipedia.org/wiki/Detroit"
+  },
+  "Leona Lewis": {
+    "name": "Leona Lewis",
+    "id": "Q183519",
+    "location": "Islington",
+    "coordinates": [
+      51.544,
+      -0.1027
+    ],
+    "link": "https://en.wikipedia.org/wiki/Leona_Lewis",
+    "origin_link": "https://en.wikipedia.org/wiki/Islington"
+  },
+  "Johnny Cash": {
+    "name": "Johnny Cash",
+    "id": "Q42775",
+    "location": "Kingsland",
+    "coordinates": [
+      33.861388888889,
+      -92.294166666667
+    ],
+    "link": "https://en.wikipedia.org/wiki/Johnny_Cash",
+    "origin_link": "https://en.wikipedia.org/wiki/Kingsland,_Arkansas"
+  },
+  "Heart": {
+    "name": "Heart",
+    "id": "Q941662",
+    "location": "Seattle",
+    "coordinates": [
+      47.605,
+      -122.33
+    ],
+    "link": "https://en.wikipedia.org/wiki/Heart_(band)",
+    "origin_link": "https://en.wikipedia.org/wiki/Seattle"
+  },
+  "The Last Shadow Puppets": {
+    "name": "The Last Shadow Puppets",
+    "id": "Q862520",
+    "location": "Sheffield",
+    "coordinates": [
+      53.380833333333335,
+      -1.4702777777777778
+    ],
+    "link": "https://en.wikipedia.org/wiki/The_Last_Shadow_Puppets",
+    "origin_link": "https://en.wikipedia.org/wiki/Sheffield"
+  },
+  "The Ink Spots": {
+    "name": "The Ink Spots",
+    "id": "Q127140",
+    "location": "New York City",
+    "coordinates": [
+      40.71277777777778,
+      -74.00611111111111
+    ],
+    "link": "https://en.wikipedia.org/wiki/The_Ink_Spots",
+    "origin_link": "https://en.wikipedia.org/wiki/New_York_City"
+  },
+  "Talking Heads": {
+    "name": "Talking Heads",
+    "id": "Q205001",
+    "location": "New York City",
+    "coordinates": [
+      40.71277777777778,
+      -74.00611111111111
+    ],
+    "link": "https://en.wikipedia.org/wiki/Talking_Heads",
+    "origin_link": "https://en.wikipedia.org/wiki/New_York_City"
+  },
+  "Louis Armstrong": {
+    "name": "Louis Armstrong",
+    "id": "Q1779",
+    "location": "New Orleans",
+    "coordinates": [
+      29.976111111111113,
+      -90.07833333333333
+    ],
+    "link": "https://en.wikipedia.org/wiki/Louis_Armstrong",
+    "origin_link": "https://en.wikipedia.org/wiki/New_Orleans"
+  },
+  "The Cross": {
+    "name": "The Cross",
+    "id": "Q734164",
+    "location": "England",
+    "coordinates": [
+      53,
+      -1
+    ],
+    "link": "https://en.wikipedia.org/wiki/The_Cross_(band)",
+    "origin_link": "https://en.wikipedia.org/wiki/England"
+  },
+  "Kygo": {
+    "name": "Kygo",
+    "id": "Q16845512",
+    "location": "Singapore",
+    "coordinates": [
+      1.3,
+      103.8
+    ],
+    "link": "https://en.wikipedia.org/wiki/Kygo",
+    "origin_link": "https://en.wikipedia.org/wiki/Singapore"
+  },
+  "Pixie Lott": {
+    "name": "Pixie Lott",
+    "id": "Q207177",
+    "location": "London",
+    "coordinates": [
+      51.507222222222,
+      -0.1275
+    ],
+    "link": "https://en.wikipedia.org/wiki/Pixie_Lott",
+    "origin_link": "https://en.wikipedia.org/wiki/London"
+  },
+  "Alessia Cara": {
+    "name": "Alessia Cara",
+    "id": "Q20090091",
+    "location": "Mississauga",
+    "coordinates": [
+      43.6,
+      -79.65
+    ],
+    "link": "https://en.wikipedia.org/wiki/Alessia_Cara",
+    "origin_link": "https://en.wikipedia.org/wiki/Mississauga"
+  },
+  "Lowell": {
+    "name": "Lowell",
+    "id": "Q19561267",
+    "location": "Calgary",
+    "coordinates": [
+      51.0475,
+      -114.0625
+    ],
+    "link": "https://en.wikipedia.org/wiki/Lowell_(musician)",
+    "origin_link": "https://en.wikipedia.org/wiki/Calgary"
+  },
+  "Justin Hurwitz": {
+    "name": "Justin Hurwitz",
+    "id": "Q21012756",
+    "location": "Los Angeles",
+    "coordinates": [
+      34.05223,
+      -118.24368
+    ],
+    "link": "https://en.wikipedia.org/wiki/Justin_Hurwitz",
+    "origin_link": "https://en.wikipedia.org/wiki/Los_Angeles"
+  },
+  "David Gray": {
+    "name": "David Gray",
+    "id": "Q320915",
+    "location": "Sale",
+    "coordinates": [
+      53.424,
+      -2.322
+    ],
+    "link": "https://en.wikipedia.org/wiki/David_Gray_(British_musician)",
+    "origin_link": "https://en.wikipedia.org/wiki/Sale,_Greater_Manchester"
+  },
+  "Mika": {
+    "name": "Mika",
+    "id": "Q186329",
+    "location": "Beirut",
+    "coordinates": [
+      33.886944444444,
+      35.513055555556
+    ],
+    "link": "https://en.wikipedia.org/wiki/Mika_(singer)",
+    "origin_link": "https://en.wikipedia.org/wiki/Beirut"
+  },
+  "Giorgio Moroder": {
+    "name": "Giorgio Moroder",
+    "id": "Q312674",
+    "location": "Urtij\u00ebi",
+    "coordinates": [
+      46.575208,
+      11.672138
+    ],
+    "link": "https://en.wikipedia.org/wiki/Giorgio_Moroder",
+    "origin_link": "https://en.wikipedia.org/wiki/Urtij%C3%ABi"
+  },
+  "Taylor Swift": {
+    "name": "Taylor Swift",
+    "id": "Q26876",
+    "location": "West Reading",
+    "coordinates": [
+      40.3342,
+      -75.9467
+    ],
+    "link": "https://en.wikipedia.org/wiki/Taylor_Swift",
+    "origin_link": "https://en.wikipedia.org/wiki/West_Reading,_Pennsylvania"
+  },
+  "King Princess": {
+    "name": "King Princess",
+    "id": "Q55006878",
+    "location": "Brooklyn",
+    "coordinates": [
+      40.65083333333333,
+      -73.94972222222222
+    ],
+    "link": "https://en.wikipedia.org/wiki/King_Princess",
+    "origin_link": "https://en.wikipedia.org/wiki/Brooklyn"
+  },
+  "The Bright Light Social Hour": {
+    "name": "The Bright Light Social Hour",
+    "id": "Q7720118",
+    "location": "Austin",
+    "coordinates": [
+      30.3,
+      -97.733333333333
+    ],
+    "link": "https://en.wikipedia.org/wiki/The_Bright_Light_Social_Hour",
+    "origin_link": "https://en.wikipedia.org/wiki/Austin,_Texas"
+  },
+  "A Perfect Circle": {
+    "name": "A Perfect Circle",
+    "id": "Q300519",
+    "location": "Los Angeles",
+    "coordinates": [
+      34.05223,
+      -118.24368
+    ],
+    "link": "https://en.wikipedia.org/wiki/A_Perfect_Circle",
+    "origin_link": "https://en.wikipedia.org/wiki/Los_Angeles"
+  },
+  "Sia": {
+    "name": "Sia",
+    "id": "Q181484",
+    "location": "Adelaide",
+    "coordinates": [
+      -34.9275,
+      138.6
+    ],
+    "link": "https://en.wikipedia.org/wiki/Sia",
+    "origin_link": "https://en.wikipedia.org/wiki/Adelaide"
+  },
+  "The Shadows": {
+    "name": "The Shadows",
+    "id": "Q212168",
+    "location": "England",
+    "coordinates": [
+      53,
+      -1
+    ],
+    "link": "https://en.wikipedia.org/wiki/The_Shadows",
+    "origin_link": "https://en.wikipedia.org/wiki/England"
+  },
+  "Leonard Cohen": {
+    "name": "Leonard Cohen",
+    "id": "Q1276",
+    "location": "Montreal",
+    "coordinates": [
+      45.5033426,
+      -73.5868411
+    ],
+    "link": "https://en.wikipedia.org/wiki/Leonard_Cohen",
+    "origin_link": "https://en.wikipedia.org/wiki/Montreal"
+  },
+  "Michael Nyman Band": {
+    "name": "Michael Nyman Band",
+    "id": "Q6833114",
+    "location": "London",
+    "coordinates": [
+      51.507222222222,
+      -0.1275
+    ],
+    "link": "https://en.wikipedia.org/wiki/Michael_Nyman_Band",
+    "origin_link": "https://en.wikipedia.org/wiki/London"
+  },
+  "London Grammar": {
+    "name": "London Grammar",
+    "id": "Q14557360",
+    "location": "Nottingham",
+    "coordinates": [
+      52.955,
+      -1.1491666666667
+    ],
+    "link": "https://en.wikipedia.org/wiki/London_Grammar",
+    "origin_link": "https://en.wikipedia.org/wiki/Nottingham"
+  },
+  "Echosmith": {
+    "name": "Echosmith",
+    "id": "Q15044343",
+    "location": "Chino",
+    "coordinates": [
+      34.017777777778,
+      -117.69
+    ],
+    "link": "https://en.wikipedia.org/wiki/Echosmith",
+    "origin_link": "https://en.wikipedia.org/wiki/Chino,_California"
+  },
+  "Izzy Bizu": {
+    "name": "Izzy Bizu",
+    "id": "Q21585344",
+    "location": "London",
+    "coordinates": [
+      51.507222222222,
+      -0.1275
+    ],
+    "link": "https://en.wikipedia.org/wiki/Izzy_Bizu",
+    "origin_link": "https://en.wikipedia.org/wiki/London"
+  },
+  "Adele": {
+    "name": "Adele",
+    "id": "Q23215",
+    "location": "Tottenham",
+    "coordinates": [
+      51.5975,
+      -0.06805555555555555
+    ],
+    "link": "https://en.wikipedia.org/wiki/Adele",
+    "origin_link": "https://en.wikipedia.org/wiki/Tottenham"
+  },
+  "Little Mix": {
+    "name": "Little Mix",
+    "id": "Q158419",
+    "location": "England",
+    "coordinates": [
+      53,
+      -1
+    ],
+    "link": "https://en.wikipedia.org/wiki/Little_Mix",
+    "origin_link": "https://en.wikipedia.org/wiki/England"
+  },
+  "Anne-Marie": {
+    "name": "Anne-Marie",
+    "id": "Q25396976",
+    "location": "Essex",
+    "coordinates": [
+      51.75,
+      0.58333333333333
+    ],
+    "link": "https://en.wikipedia.org/wiki/Anne-Marie",
+    "origin_link": "https://en.wikipedia.org/wiki/Essex"
+  },
+  "American Authors": {
+    "name": "American Authors",
+    "id": "Q15044381",
+    "location": "Boston",
+    "coordinates": [
+      42.360277777777775,
+      -71.05777777777777
+    ],
+    "link": "https://en.wikipedia.org/wiki/American_Authors",
+    "origin_link": "https://en.wikipedia.org/wiki/Boston"
+  },
+  "Pink Floyd": {
+    "name": "Pink Floyd",
+    "id": "Q2306",
+    "location": "London",
+    "coordinates": [
+      51.507222222222,
+      -0.1275
+    ],
+    "link": "https://en.wikipedia.org/wiki/Pink_Floyd",
+    "origin_link": "https://en.wikipedia.org/wiki/London"
+  },
+  "Two Door Cinema Club": {
+    "name": "Two Door Cinema Club",
+    "id": "Q777302",
+    "location": "Bangor",
+    "coordinates": [
+      54.66,
+      -5.67
+    ],
+    "link": "https://en.wikipedia.org/wiki/Two_Door_Cinema_Club",
+    "origin_link": "https://en.wikipedia.org/wiki/Bangor,_County_Down"
+  },
+  "Frankie Laine": {
+    "name": "Frankie Laine",
+    "id": "Q342774",
+    "location": "Chicago",
+    "coordinates": [
+      41.88194444444444,
+      -87.62777777777778
+    ],
+    "link": "https://en.wikipedia.org/wiki/Frankie_Laine",
+    "origin_link": "https://en.wikipedia.org/wiki/Chicago"
+  },
+  "Kate Bush": {
+    "name": "Kate Bush",
+    "id": "Q636",
+    "location": "Bexleyheath",
+    "coordinates": [
+      51.4589,
+      0.1384
+    ],
+    "link": "https://en.wikipedia.org/wiki/Kate_Bush",
+    "origin_link": "https://en.wikipedia.org/wiki/Bexleyheath"
+  },
+  "Orchestral Manoeuvres in the Dark": {
+    "name": "Orchestral Manoeuvres in the Dark",
+    "id": "Q956500",
+    "location": "Meols",
+    "coordinates": [
+      53.4014,
+      -3.1553
+    ],
+    "link": "https://en.wikipedia.org/wiki/Orchestral_Manoeuvres_in_the_Dark",
+    "origin_link": "https://en.wikipedia.org/wiki/Meols"
+  },
+  "Foxes": {
+    "name": "Foxes",
+    "id": "Q13455177",
+    "location": "Southampton",
+    "coordinates": [
+      50.906666666666666,
+      -1.4044444444444444
+    ],
+    "link": "https://en.wikipedia.org/wiki/Foxes_(singer)",
+    "origin_link": "https://en.wikipedia.org/wiki/Southampton"
+  },
+  "Billy Joel": {
+    "name": "Billy Joel",
+    "id": "Q194333",
+    "location": "New York City",
+    "coordinates": [
+      40.71277777777778,
+      -74.00611111111111
+    ],
+    "link": "https://en.wikipedia.org/wiki/Billy_Joel",
+    "origin_link": "https://en.wikipedia.org/wiki/New_York_City"
+  },
+  "Crowded House": {
+    "name": "Crowded House",
+    "id": "Q1128045",
+    "location": "Melbourne",
+    "coordinates": [
+      -37.814166666666665,
+      144.96305555555554
+    ],
+    "link": "https://en.wikipedia.org/wiki/Crowded_House",
+    "origin_link": "https://en.wikipedia.org/wiki/Melbourne"
+  },
+  "Coldplay": {
+    "name": "Coldplay",
+    "id": "Q45188",
+    "location": "London",
+    "coordinates": [
+      51.507222222222,
+      -0.1275
+    ],
+    "link": "https://en.wikipedia.org/wiki/Coldplay",
+    "origin_link": "https://en.wikipedia.org/wiki/London"
+  },
+  "Inon Zur": {
+    "name": "Inon Zur",
+    "id": "Q933777",
+    "location": "Israel",
+    "coordinates": [
+      31,
+      35
+    ],
+    "link": "https://en.wikipedia.org/wiki/Inon_Zur",
+    "origin_link": "https://en.wikipedia.org/wiki/Israel"
+  },
+  "Mark Knopfler": {
+    "name": "Mark Knopfler",
+    "id": "Q185343",
+    "location": "Glasgow",
+    "coordinates": [
+      55.861111111111114,
+      -4.25
+    ],
+    "link": "https://en.wikipedia.org/wiki/Mark_Knopfler",
+    "origin_link": "https://en.wikipedia.org/wiki/Glasgow"
+  },
+  "The Beatles": {
+    "name": "The Beatles",
+    "id": "Q1299",
+    "location": "Liverpool",
+    "coordinates": [
+      53.407222222222224,
+      -2.9916666666666667
+    ],
+    "link": "https://en.wikipedia.org/wiki/The_Beatles",
+    "origin_link": "https://en.wikipedia.org/wiki/Liverpool"
+  },
+  "Stephen Warbeck": {
+    "name": "Stephen Warbeck",
+    "id": "Q1361541",
+    "location": "Southampton",
+    "coordinates": [
+      50.906666666666666,
+      -1.4044444444444444
+    ],
+    "link": "https://en.wikipedia.org/wiki/Stephen_Warbeck",
+    "origin_link": "https://en.wikipedia.org/wiki/Southampton"
+  },
+  "Marcin Przyby\u0142owicz": {
+    "name": "Marcin Przyby\u0142owicz",
+    "id": "Q19005369",
+    "location": "Poland",
+    "coordinates": [
+      52,
+      19
+    ],
+    "link": "https://en.wikipedia.org/wiki/Marcin_Przyby%C5%82owicz",
+    "origin_link": "https://en.wikipedia.org/wiki/Poland"
+  },
+  "Nick Mulvey": {
+    "name": "Nick Mulvey",
+    "id": "Q16732992",
+    "location": "United Kingdom",
+    "coordinates": [
+      54.6,
+      -2
+    ],
+    "link": "https://en.wikipedia.org/wiki/Nick_Mulvey",
+    "origin_link": "https://en.wikipedia.org/wiki/United_Kingdom"
+  },
+  "George Michael": {
+    "name": "George Michael",
+    "id": "Q130311",
+    "location": "East Finchley",
+    "coordinates": [
+      51.590161111111,
+      -0.17533888888889
+    ],
+    "link": "https://en.wikipedia.org/wiki/George_Michael",
+    "origin_link": "https://en.wikipedia.org/wiki/East_Finchley"
+  },
+  "Russell Watson": {
+    "name": "Russell Watson",
+    "id": "Q608521",
+    "location": "Salford",
+    "coordinates": [
+      53.482777777778,
+      -2.2930555555556
+    ],
+    "link": "https://en.wikipedia.org/wiki/Russell_Watson",
+    "origin_link": "https://en.wikipedia.org/wiki/Salford"
+  },
+  "Carly Rae Jepsen": {
+    "name": "Carly Rae Jepsen",
+    "id": "Q52583",
+    "location": "Mission",
+    "coordinates": [
+      49.133694444444,
+      -122.31116666667
+    ],
+    "link": "https://en.wikipedia.org/wiki/Carly_Rae_Jepsen",
+    "origin_link": "https://en.wikipedia.org/wiki/Mission,_British_Columbia"
+  },
+  "New Order": {
+    "name": "New Order",
+    "id": "Q214990",
+    "location": "Salford",
+    "coordinates": [
+      53.482777777778,
+      -2.2930555555556
+    ],
+    "link": "https://en.wikipedia.org/wiki/New_Order_(band)",
+    "origin_link": "https://en.wikipedia.org/wiki/Salford"
+  },
+  "L\u00e5psley": {
+    "name": "L\u00e5psley",
+    "id": "Q18640342",
+    "location": "Southport",
+    "coordinates": [
+      53.646944444444,
+      -3.0080555555556
+    ],
+    "link": "https://en.wikipedia.org/wiki/L%C3%A5psley",
+    "origin_link": "https://en.wikipedia.org/wiki/Southport"
+  },
+  "Chicago": {
+    "name": "Chicago",
+    "id": "Q371938",
+    "location": "Chicago",
+    "coordinates": [
+      41.88194444444444,
+      -87.62777777777778
+    ],
+    "link": "https://en.wikipedia.org/wiki/Chicago_(band)",
+    "origin_link": "https://en.wikipedia.org/wiki/Chicago"
+  },
+  "Bruce Springsteen": {
+    "name": "Bruce Springsteen",
+    "id": "Q1225",
+    "location": "Long Branch",
+    "coordinates": [
+      40.2954,
+      -73.9899
+    ],
+    "link": "https://en.wikipedia.org/wiki/Bruce_Springsteen",
+    "origin_link": "https://en.wikipedia.org/wiki/Long_Branch,_New_Jersey"
+  },
+  "Ennio Morricone": {
+    "name": "Ennio Morricone",
+    "id": "Q23848",
+    "location": "Rome",
+    "coordinates": [
+      41.893055555556,
+      12.482777777778
+    ],
+    "link": "https://en.wikipedia.org/wiki/Ennio_Morricone",
+    "origin_link": "https://en.wikipedia.org/wiki/Rome"
+  },
+  "Queen": {
+    "name": "Queen",
+    "id": "Q15862",
+    "location": "London",
+    "coordinates": [
+      51.507222222222,
+      -0.1275
+    ],
+    "link": "https://en.wikipedia.org/wiki/Queen_(band)",
+    "origin_link": "https://en.wikipedia.org/wiki/London"
+  },
+  "Freddie Mercury": {
+    "name": "Freddie Mercury",
+    "id": "Q15869",
+    "location": "Zanzibar City",
+    "coordinates": [
+      -6.1666666666667,
+      39.2
+    ],
+    "link": "https://en.wikipedia.org/wiki/Freddie_Mercury",
+    "origin_link": "https://en.wikipedia.org/wiki/Zanzibar_City"
+  },
+  "Daft Punk": {
+    "name": "Daft Punk",
+    "id": "Q185828",
+    "location": "Paris",
+    "coordinates": [
+      48.85666666666667,
+      2.352222222222222
+    ],
+    "link": "https://en.wikipedia.org/wiki/Daft_Punk",
+    "origin_link": "https://en.wikipedia.org/wiki/Paris"
+  },
+  "Jason Derulo": {
+    "name": "Jason Derulo",
+    "id": "Q243639",
+    "location": "Miramar",
+    "coordinates": [
+      25.978888888889,
+      -80.2825
+    ],
+    "link": "https://en.wikipedia.org/wiki/Jason_Derulo",
+    "origin_link": "https://en.wikipedia.org/wiki/Miramar,_Florida"
+  },
+  "Anna Lapwood": {
+    "name": "Anna Lapwood",
+    "id": "Q67632634",
+    "location": "High Wycombe",
+    "coordinates": [
+      51.621666666667,
+      -0.75166666666667
+    ],
+    "link": "https://en.wikipedia.org/wiki/Anna_Lapwood",
+    "origin_link": "https://en.wikipedia.org/wiki/High_Wycombe"
+  },
+  "Gary Numan": {
+    "name": "Gary Numan",
+    "id": "Q331731",
+    "location": "Hammersmith",
+    "coordinates": [
+      51.4928,
+      -0.2229
+    ],
+    "link": "https://en.wikipedia.org/wiki/Gary_Numan",
+    "origin_link": "https://en.wikipedia.org/wiki/Hammersmith"
+  },
+  "Ellie Goulding": {
+    "name": "Ellie Goulding",
+    "id": "Q31164",
+    "location": "Hereford",
+    "coordinates": [
+      52.056388888889,
+      -2.7161111111111
+    ],
+    "link": "https://en.wikipedia.org/wiki/Ellie_Goulding",
+    "origin_link": "https://en.wikipedia.org/wiki/Hereford"
+  },
+  "Duran Duran": {
+    "name": "Duran Duran",
+    "id": "Q58381",
+    "location": "Birmingham",
+    "coordinates": [
+      52.48,
+      -1.9025
+    ],
+    "link": "https://en.wikipedia.org/wiki/Duran_Duran",
+    "origin_link": "https://en.wikipedia.org/wiki/Birmingham"
+  },
+  "Lynyrd Skynyrd": {
+    "name": "Lynyrd Skynyrd",
+    "id": "Q158462",
+    "location": "Jacksonville",
+    "coordinates": [
+      30.316666666667,
+      -81.65
+    ],
+    "link": "https://en.wikipedia.org/wiki/Lynyrd_Skynyrd",
+    "origin_link": "https://en.wikipedia.org/wiki/Jacksonville,_Florida"
+  },
+  "Miley Cyrus": {
+    "name": "Miley Cyrus",
+    "id": "Q4235",
+    "location": "Nashville",
+    "coordinates": [
+      36.16222222222222,
+      -86.77444444444444
+    ],
+    "link": "https://en.wikipedia.org/wiki/Miley_Cyrus",
+    "origin_link": "https://en.wikipedia.org/wiki/Nashville,_Tennessee"
+  },
+  "Soft Cell": {
+    "name": "Soft Cell",
+    "id": "Q1329303",
+    "location": "Leeds",
+    "coordinates": [
+      53.7975,
+      -1.5436111111111113
+    ],
+    "link": "https://en.wikipedia.org/wiki/Soft_Cell",
+    "origin_link": "https://en.wikipedia.org/wiki/Leeds"
+  },
+  "Example": {
+    "name": "Example",
+    "id": "Q352098",
+    "location": "Fulham",
+    "coordinates": [
+      51.4767,
+      -0.2138
+    ],
+    "link": "https://en.wikipedia.org/wiki/Example_(musician)",
+    "origin_link": "https://en.wikipedia.org/wiki/Fulham"
+  },
+  "Beyonc\u00e9": {
+    "name": "Beyonc\u00e9",
+    "id": "Q36153",
+    "location": "Houston",
+    "coordinates": [
+      29.762777777778,
+      -95.383055555556
+    ],
+    "link": "https://en.wikipedia.org/wiki/Beyonc%C3%A9",
+    "origin_link": "https://en.wikipedia.org/wiki/Houston"
+  },
+  "Foster the People": {
+    "name": "Foster the People",
+    "id": "Q61113",
+    "location": "Los Angeles",
+    "coordinates": [
+      34.05223,
+      -118.24368
+    ],
+    "link": "https://en.wikipedia.org/wiki/Foster_the_People",
+    "origin_link": "https://en.wikipedia.org/wiki/Los_Angeles"
+  },
+  "Disciples": {
+    "name": "Disciples",
+    "id": "Q24025201",
+    "location": "London",
+    "coordinates": [
+      51.507222222222,
+      -0.1275
+    ],
+    "link": "https://en.wikipedia.org/wiki/Disciples_(production_team)",
+    "origin_link": "https://en.wikipedia.org/wiki/London"
+  },
+  "Robbie Williams": {
+    "name": "Robbie Williams",
+    "id": "Q47875",
+    "location": "Stoke-on-Trent",
+    "coordinates": [
+      53,
+      -2.1833333333333
+    ],
+    "link": "https://en.wikipedia.org/wiki/Robbie_Williams",
+    "origin_link": "https://en.wikipedia.org/wiki/Stoke-on-Trent"
+  },
+  "Blondie": {
+    "name": "Blondie",
+    "id": "Q202741",
+    "location": "New York City",
+    "coordinates": [
+      40.71277777777778,
+      -74.00611111111111
+    ],
+    "link": "https://en.wikipedia.org/wiki/Blondie_(band)",
+    "origin_link": "https://en.wikipedia.org/wiki/New_York_City"
+  },
+  "William Onyeabor": {
+    "name": "William Onyeabor",
+    "id": "Q8016354",
+    "location": "Nigeria",
+    "coordinates": [
+      9,
+      8
+    ],
+    "link": "https://en.wikipedia.org/wiki/William_Onyeabor",
+    "origin_link": "https://en.wikipedia.org/wiki/Nigeria"
+  },
+  "Stevie Wonder": {
+    "name": "Stevie Wonder",
+    "id": "Q714",
+    "location": "Saginaw",
+    "coordinates": [
+      43.4199247,
+      -83.9500261
+    ],
+    "link": "https://en.wikipedia.org/wiki/Stevie_Wonder",
+    "origin_link": "https://en.wikipedia.org/wiki/Saginaw,_Michigan"
+  },
+  "Madness": {
+    "name": "Madness",
+    "id": "Q745741",
+    "location": "London",
+    "coordinates": [
+      51.507222222222,
+      -0.1275
+    ],
+    "link": "https://en.wikipedia.org/wiki/Madness_(band)",
+    "origin_link": "https://en.wikipedia.org/wiki/London"
+  },
+  "Jim Steinman": {
+    "name": "Jim Steinman",
+    "id": "Q281908",
+    "location": "Claremont",
+    "coordinates": [
+      34.11,
+      -117.71972222222
+    ],
+    "link": "https://en.wikipedia.org/wiki/Jim_Steinman",
+    "origin_link": "https://en.wikipedia.org/wiki/Claremont,_California"
+  },
+  "Haim": {
+    "name": "Haim",
+    "id": "Q868810",
+    "location": "Los Angeles",
+    "coordinates": [
+      34.05223,
+      -118.24368
+    ],
+    "link": "https://en.wikipedia.org/wiki/Haim_(band)",
+    "origin_link": "https://en.wikipedia.org/wiki/Los_Angeles"
+  },
+  "The Big Moon": {
+    "name": "The Big Moon",
+    "id": "Q28407726",
+    "location": "London",
+    "coordinates": [
+      51.507222222222,
+      -0.1275
+    ],
+    "link": "https://en.wikipedia.org/wiki/The_Big_Moon",
+    "origin_link": "https://en.wikipedia.org/wiki/London"
+  },
+  "Ladyhawke": {
+    "name": "Ladyhawke",
+    "id": "Q237197",
+    "location": "Masterton",
+    "coordinates": [
+      -40.966666666667,
+      175.65
+    ],
+    "link": "https://en.wikipedia.org/wiki/Ladyhawke_(musician)",
+    "origin_link": "https://en.wikipedia.org/wiki/Masterton"
+  },
+  "Daniel Merriweather": {
+    "name": "Daniel Merriweather",
+    "id": "Q254840",
+    "location": "Melbourne",
+    "coordinates": [
+      -37.814166666666665,
+      144.96305555555554
+    ],
+    "link": "https://en.wikipedia.org/wiki/Daniel_Merriweather",
+    "origin_link": "https://en.wikipedia.org/wiki/Melbourne"
+  },
+  "R.E.M.": {
+    "name": "R.E.M.",
+    "id": "Q134969",
+    "location": "Athens",
+    "coordinates": [
+      33.955277777778,
+      -83.383055555556
+    ],
+    "link": "https://en.wikipedia.org/wiki/R.E.M.",
+    "origin_link": "https://en.wikipedia.org/wiki/Athens,_Georgia"
+  },
+  "The Andrews Sisters": {
+    "name": "The Andrews Sisters",
+    "id": "Q972398",
+    "location": "Minnesota",
+    "coordinates": [
+      46,
+      -94
+    ],
+    "link": "https://en.wikipedia.org/wiki/The_Andrews_Sisters",
+    "origin_link": "https://en.wikipedia.org/wiki/Minnesota"
+  },
+  "George Harrison": {
+    "name": "George Harrison",
+    "id": "Q2643",
+    "location": "Liverpool",
+    "coordinates": [
+      53.407222222222224,
+      -2.9916666666666667
+    ],
+    "link": "https://en.wikipedia.org/wiki/George_Harrison",
+    "origin_link": "https://en.wikipedia.org/wiki/Liverpool"
+  },
+  "Marc Almond": {
+    "name": "Marc Almond",
+    "id": "Q452166",
+    "location": "Southport",
+    "coordinates": [
+      53.646944444444,
+      -3.0080555555556
+    ],
+    "link": "https://en.wikipedia.org/wiki/Marc_Almond",
+    "origin_link": "https://en.wikipedia.org/wiki/Southport"
+  },
+  "Sting": {
+    "name": "Sting",
+    "id": "Q483203",
+    "location": "Wallsend",
+    "coordinates": [
+      54.991280555556,
+      -1.5311
+    ],
+    "link": "https://en.wikipedia.org/wiki/Sting_(musician)",
+    "origin_link": "https://en.wikipedia.org/wiki/Wallsend"
+  },
+  "Paul Weller": {
+    "name": "Paul Weller",
+    "id": "Q371986",
+    "location": "Woking",
+    "coordinates": [
+      51.316111111111,
+      -0.56111111111111
+    ],
+    "link": "https://en.wikipedia.org/wiki/Paul_Weller",
+    "origin_link": "https://en.wikipedia.org/wiki/Woking"
+  },
+  "Chris Difford": {
+    "name": "Chris Difford",
+    "id": "Q5106399",
+    "location": "Greenwich",
+    "coordinates": [
+      51.48,
+      0
+    ],
+    "link": "https://en.wikipedia.org/wiki/Chris_Difford",
+    "origin_link": "https://en.wikipedia.org/wiki/Greenwich"
+  },
+  "Suggs": {
+    "name": "Suggs",
+    "id": "Q2490265",
+    "location": "Hastings",
+    "coordinates": [
+      50.855,
+      0.5833333333333334
+    ],
+    "link": "https://en.wikipedia.org/wiki/Suggs",
+    "origin_link": "https://en.wikipedia.org/wiki/Hastings"
+  },
+  "Katy Perry": {
+    "name": "Katy Perry",
+    "id": "Q42493",
+    "location": "Santa Barbara",
+    "coordinates": [
+      34.425833333333,
+      -119.71416666667
+    ],
+    "link": "https://en.wikipedia.org/wiki/Katy_Perry",
+    "origin_link": "https://en.wikipedia.org/wiki/Santa_Barbara,_California"
+  },
+  "David Gilmour": {
+    "name": "David Gilmour",
+    "id": "Q178517",
+    "location": "Cambridge",
+    "coordinates": [
+      52.208055555556,
+      0.1225
+    ],
+    "link": "https://en.wikipedia.org/wiki/David_Gilmour",
+    "origin_link": "https://en.wikipedia.org/wiki/Cambridge"
+  },
+  "Alan Stivell": {
+    "name": "Alan Stivell",
+    "id": "Q10681",
+    "location": "Riom",
+    "coordinates": [
+      45.893611111111,
+      3.1125
+    ],
+    "link": "https://en.wikipedia.org/wiki/Alan_Stivell",
+    "origin_link": "https://en.wikipedia.org/wiki/Riom"
+  },
+  "Liam Gallagher": {
+    "name": "Liam Gallagher",
+    "id": "Q216708",
+    "location": "Manchester",
+    "coordinates": [
+      53.466666666667,
+      -2.2333333333333
+    ],
+    "link": "https://en.wikipedia.org/wiki/Liam_Gallagher",
+    "origin_link": "https://en.wikipedia.org/wiki/Manchester"
+  },
+  "Nick Lucas": {
+    "name": "Nick Lucas",
+    "id": "Q7027488",
+    "location": "Newark",
+    "coordinates": [
+      40.73555555555556,
+      -74.17222222222222
+    ],
+    "link": "https://en.wikipedia.org/wiki/Nick_Lucas",
+    "origin_link": "https://en.wikipedia.org/wiki/Newark,_New_Jersey"
+  },
+  "The J. Geils Band": {
+    "name": "The J. Geils Band",
+    "id": "Q1542906",
+    "location": "Worcester",
+    "coordinates": [
+      42.271388888889,
+      -71.798888888889
+    ],
+    "link": "https://en.wikipedia.org/wiki/The_J._Geils_Band",
+    "origin_link": "https://en.wikipedia.org/wiki/Worcester,_Massachusetts"
+  },
+  "Muse": {
+    "name": "Muse",
+    "id": "Q22151",
+    "location": "Teignmouth",
+    "coordinates": [
+      50.5491,
+      -3.4948
+    ],
+    "link": "https://en.wikipedia.org/wiki/Muse_(band)",
+    "origin_link": "https://en.wikipedia.org/wiki/Teignmouth"
+  },
+  "Joan Baez": {
+    "name": "Joan Baez",
+    "id": "Q131725",
+    "location": "Staten Island",
+    "coordinates": [
+      40.57194444444445,
+      -74.14694444444444
+    ],
+    "link": "https://en.wikipedia.org/wiki/Joan_Baez",
+    "origin_link": "https://en.wikipedia.org/wiki/Staten_Island"
+  },
+  "M83": {
+    "name": "M83",
+    "id": "Q615471",
+    "location": "Antibes",
+    "coordinates": [
+      43.58,
+      7.1230555555556
+    ],
+    "link": "https://en.wikipedia.org/wiki/M83_(band)",
+    "origin_link": "https://en.wikipedia.org/wiki/Antibes"
+  },
+  "Harry Styles": {
+    "name": "Harry Styles",
+    "id": "Q3626966",
+    "location": "Redditch",
+    "coordinates": [
+      52.30694444444445,
+      -1.9491666666666667
+    ],
+    "link": "https://en.wikipedia.org/wiki/Harry_Styles",
+    "origin_link": "https://en.wikipedia.org/wiki/Redditch"
+  },
+  "Keane": {
+    "name": "Keane",
+    "id": "Q484311",
+    "location": "Battle",
+    "coordinates": [
+      50.916666666667,
+      0.48333333333333
+    ],
+    "link": "https://en.wikipedia.org/wiki/Keane_(band)",
+    "origin_link": "https://en.wikipedia.org/wiki/Battle,_East_Sussex"
+  },
+  "Anthony John Clarke": {
+    "name": "Anthony John Clarke",
+    "id": "Q4772833",
+    "location": "United Kingdom",
+    "coordinates": [
+      54.6,
+      -2
+    ],
+    "link": "https://en.wikipedia.org/wiki/Anthony_John_Clarke",
+    "origin_link": "https://en.wikipedia.org/wiki/United_Kingdom"
+  },
+  "Tom Odell": {
+    "name": "Tom Odell",
+    "id": "Q4027095",
+    "location": "Chichester",
+    "coordinates": [
+      50.8365,
+      -0.7792
+    ],
+    "link": "https://en.wikipedia.org/wiki/Tom_Odell",
+    "origin_link": "https://en.wikipedia.org/wiki/Chichester"
+  },
+  "Fleetwood Mac": {
+    "name": "Fleetwood Mac",
+    "id": "Q106648",
+    "location": "London",
+    "coordinates": [
+      51.507222222222,
+      -0.1275
+    ],
+    "link": "https://en.wikipedia.org/wiki/Fleetwood_Mac",
+    "origin_link": "https://en.wikipedia.org/wiki/London"
+  },
+  "Roger Miller": {
+    "name": "Roger Miller",
+    "id": "Q712359",
+    "location": "Fort Worth",
+    "coordinates": [
+      32.756388888888885,
+      -97.3325
+    ],
+    "link": "https://en.wikipedia.org/wiki/Roger_Miller",
+    "origin_link": "https://en.wikipedia.org/wiki/Fort_Worth,_Texas"
+  },
+  "The Platters": {
+    "name": "The Platters",
+    "id": "Q753905",
+    "location": "Los Angeles",
+    "coordinates": [
+      34.05223,
+      -118.24368
+    ],
+    "link": "https://en.wikipedia.org/wiki/The_Platters",
+    "origin_link": "https://en.wikipedia.org/wiki/Los_Angeles"
+  },
+  "Peter Gabriel": {
+    "name": "Peter Gabriel",
+    "id": "Q175195",
+    "location": "Chobham",
+    "coordinates": [
+      51.3481,
+      -0.6038
+    ],
+    "link": "https://en.wikipedia.org/wiki/Peter_Gabriel",
+    "origin_link": "https://en.wikipedia.org/wiki/Chobham"
+  },
+  "Frank Sinatra": {
+    "name": "Frank Sinatra",
+    "id": "Q40912",
+    "location": "Hoboken",
+    "coordinates": [
+      40.745,
+      -74.0325
+    ],
+    "link": "https://en.wikipedia.org/wiki/Frank_Sinatra",
+    "origin_link": "https://en.wikipedia.org/wiki/Hoboken,_New_Jersey"
+  },
+  "The XX": {
+    "name": "The xx",
+    "id": "Q869367",
+    "location": "London",
+    "coordinates": [
+      51.507222222222,
+      -0.1275
+    ],
+    "link": "https://en.wikipedia.org/wiki/The_xx",
+    "origin_link": "https://en.wikipedia.org/wiki/London"
+  },
+  "Razorlight": {
+    "name": "Razorlight",
+    "id": "Q913779",
+    "location": "London",
+    "coordinates": [
+      51.507222222222,
+      -0.1275
+    ],
+    "link": "https://en.wikipedia.org/wiki/Razorlight",
+    "origin_link": "https://en.wikipedia.org/wiki/London"
+  },
+  "Mike Oldfield": {
+    "name": "Mike Oldfield",
+    "id": "Q3008",
+    "location": "Reading",
+    "coordinates": [
+      51.454166666667,
+      -0.97305555555556
+    ],
+    "link": "https://en.wikipedia.org/wiki/Mike_Oldfield",
+    "origin_link": "https://en.wikipedia.org/wiki/Reading,_Berkshire"
+  },
+  "Tears for Fears": {
+    "name": "Tears for Fears",
+    "id": "Q269091",
+    "location": "Bath",
+    "coordinates": [
+      51.381388888888885,
+      -2.359722222222222
+    ],
+    "link": "https://en.wikipedia.org/wiki/Tears_for_Fears",
+    "origin_link": "https://en.wikipedia.org/wiki/Bath,_Somerset"
+  },
+  "Wolf Alice": {
+    "name": "Wolf Alice",
+    "id": "Q8029799",
+    "location": "London",
+    "coordinates": [
+      51.507222222222,
+      -0.1275
+    ],
+    "link": "https://en.wikipedia.org/wiki/Wolf_Alice",
+    "origin_link": "https://en.wikipedia.org/wiki/London"
+  },
+  "Lorde": {
+    "name": "Lorde",
+    "id": "Q13476175",
+    "location": "Takapuna",
+    "coordinates": [
+      -36.787,
+      174.772
+    ],
+    "link": "https://en.wikipedia.org/wiki/Lorde",
+    "origin_link": "https://en.wikipedia.org/wiki/Takapuna"
+  },
+  "Jungle": {
+    "name": "Jungle",
+    "id": "Q17405943",
+    "location": "London",
+    "coordinates": [
+      51.507222222222,
+      -0.1275
+    ],
+    "link": "https://en.wikipedia.org/wiki/Jungle_(band)",
+    "origin_link": "https://en.wikipedia.org/wiki/London"
+  },
+  "Bastille": {
+    "name": "Bastille",
+    "id": "Q689",
+    "location": "London",
+    "coordinates": [
+      51.507222222222,
+      -0.1275
+    ],
+    "link": "https://en.wikipedia.org/wiki/Bastille_(band)",
+    "origin_link": "https://en.wikipedia.org/wiki/London"
+  },
+  "Lily Allen": {
+    "name": "Lily Allen",
+    "id": "Q58735",
+    "location": "Hammersmith",
+    "coordinates": [
+      51.4928,
+      -0.2229
+    ],
+    "link": "https://en.wikipedia.org/wiki/Lily_Allen",
+    "origin_link": "https://en.wikipedia.org/wiki/Hammersmith"
+  },
+  "George Ezra": {
+    "name": "George Ezra",
+    "id": "Q15459513",
+    "location": "Hertford",
+    "coordinates": [
+      51.795,
+      -0.078
+    ],
+    "link": "https://en.wikipedia.org/wiki/George_Ezra",
+    "origin_link": "https://en.wikipedia.org/wiki/Hertford"
+  },
+  "Jamie T": {
+    "name": "Jamie T",
+    "id": "Q946266",
+    "location": "Wimbledon",
+    "coordinates": [
+      51.4235,
+      -0.2171
+    ],
+    "link": "https://en.wikipedia.org/wiki/Jamie_T",
+    "origin_link": "https://en.wikipedia.org/wiki/Wimbledon,_London"
+  },
+  "Joris de Man": {
+    "name": "Joris De Man",
+    "id": "Q3183917",
+    "location": "The Hague",
+    "coordinates": [
+      52.08,
+      4.31
+    ],
+    "link": "https://en.wikipedia.org/wiki/Joris_de_Man",
+    "origin_link": "https://en.wikipedia.org/wiki/The_Hague"
+  },
+  "John Kirkpatrick": {
+    "name": "John Kirkpatrick",
+    "id": "Q1911853",
+    "location": "United Kingdom",
+    "coordinates": [
+      54.6,
+      -2
+    ],
+    "link": "https://en.wikipedia.org/wiki/John_Kirkpatrick_(folk_musician)",
+    "origin_link": "https://en.wikipedia.org/wiki/United_Kingdom"
+  },
+  "Status Quo": {
+    "name": "Status Quo",
+    "id": "Q322265",
+    "location": "London",
+    "coordinates": [
+      51.507222222222,
+      -0.1275
+    ],
+    "link": "https://en.wikipedia.org/wiki/Status_Quo_(band)",
+    "origin_link": "https://en.wikipedia.org/wiki/London"
+  },
+  "Disclosure": {
+    "name": "Disclosure",
+    "id": "Q1228440",
+    "location": "Reigate",
+    "coordinates": [
+      51.237644444444,
+      -0.20583333333333
+    ],
+    "link": "https://en.wikipedia.org/wiki/Disclosure_(band)",
+    "origin_link": "https://en.wikipedia.org/wiki/Reigate"
+  },
+  "Bing Crosby": {
+    "name": "Bing Crosby",
+    "id": "Q72984",
+    "location": "Tacoma",
+    "coordinates": [
+      47.2525,
+      -122.4475
+    ],
+    "link": "https://en.wikipedia.org/wiki/Bing_Crosby",
+    "origin_link": "https://en.wikipedia.org/wiki/Tacoma,_Washington"
+  },
+  "Lou Monte": {
+    "name": "Lou Monte",
+    "id": "Q538676",
+    "location": "Manhattan",
+    "coordinates": [
+      40.728333333333,
+      -73.994166666667
+    ],
+    "link": "https://en.wikipedia.org/wiki/Lou_Monte",
+    "origin_link": "https://en.wikipedia.org/wiki/Manhattan"
+  },
+  "Jon Pardi": {
+    "name": "Jon Pardi",
+    "id": "Q6271354",
+    "location": "Dixon",
+    "coordinates": [
+      38.449108,
+      -121.826872
+    ],
+    "link": "https://en.wikipedia.org/wiki/Jon_Pardi",
+    "origin_link": "https://en.wikipedia.org/wiki/Dixon,_California"
+  },
+  "Clare Teal": {
+    "name": "Clare Teal",
+    "id": "Q1095320",
+    "location": "Kildwick",
+    "coordinates": [
+      53.911663888889,
+      -1.9890472222222
+    ],
+    "link": "https://en.wikipedia.org/wiki/Clare_Teal",
+    "origin_link": "https://en.wikipedia.org/wiki/Kildwick"
+  },
+  "The Darkness": {
+    "name": "The Darkness",
+    "id": "Q421794",
+    "location": "Lowestoft",
+    "coordinates": [
+      52.48,
+      1.75
+    ],
+    "link": "https://en.wikipedia.org/wiki/The_Darkness_(band)",
+    "origin_link": "https://en.wikipedia.org/wiki/Lowestoft"
+  },
+  "Ariana Grande": {
+    "name": "Ariana Grande",
+    "id": "Q151892",
+    "location": "Boca Raton",
+    "coordinates": [
+      26.368611111111,
+      -80.1
+    ],
+    "link": "https://en.wikipedia.org/wiki/Ariana_Grande",
+    "origin_link": "https://en.wikipedia.org/wiki/Boca_Raton,_Florida"
+  },
+  "Major Lazer": {
+    "name": "Major Lazer",
+    "id": "Q2604214",
+    "location": "Los Angeles",
+    "coordinates": [
+      34.05223,
+      -118.24368
+    ],
+    "link": "https://en.wikipedia.org/wiki/Major_Lazer",
+    "origin_link": "https://en.wikipedia.org/wiki/Los_Angeles"
+  },
+  "The Script": {
+    "name": "The Script",
+    "id": "Q459585",
+    "location": "Dublin",
+    "coordinates": [
+      53.34972222222222,
+      -6.260277777777778
+    ],
+    "link": "https://en.wikipedia.org/wiki/The_Script",
+    "origin_link": "https://en.wikipedia.org/wiki/Dublin"
+  },
+  "Alice Gold": {
+    "name": "Alice Gold",
+    "id": "Q4725884",
+    "location": "United Kingdom",
+    "coordinates": [
+      54.6,
+      -2
+    ],
+    "link": "https://en.wikipedia.org/wiki/Alice_Gold",
+    "origin_link": "https://en.wikipedia.org/wiki/United_Kingdom"
+  },
+  "Meat Loaf": {
+    "name": "Meat Loaf",
+    "id": "Q152929",
+    "location": "Dallas",
+    "coordinates": [
+      32.779166666667,
+      -96.808888888889
+    ],
+    "link": "https://en.wikipedia.org/wiki/Meat_Loaf",
+    "origin_link": "https://en.wikipedia.org/wiki/Dallas"
+  },
+  "Tracy Chapman": {
+    "name": "Tracy Chapman",
+    "id": "Q187814",
+    "location": "Cleveland",
+    "coordinates": [
+      41.49916666666667,
+      -81.69472222222223
+    ],
+    "link": "https://en.wikipedia.org/wiki/Tracy_Chapman",
+    "origin_link": "https://en.wikipedia.org/wiki/Cleveland"
+  },
+  "Blossoms": {
+    "name": "Blossoms",
+    "id": "Q23057702",
+    "location": "Stockport",
+    "coordinates": [
+      53.408333333333,
+      -2.1494444444444
+    ],
+    "link": "https://en.wikipedia.org/wiki/Blossoms_(band)",
+    "origin_link": "https://en.wikipedia.org/wiki/Stockport"
+  },
+  "Spring King": {
+    "name": "Spring King",
+    "id": "Q24060253",
+    "location": "United Kingdom",
+    "coordinates": [
+      54.6,
+      -2
+    ],
+    "link": "https://en.wikipedia.org/wiki/Spring_King",
+    "origin_link": "https://en.wikipedia.org/wiki/United_Kingdom"
+  },
+  "Just Us": {
+    "name": "Just Us",
+    "id": "Q6316406",
+    "location": "United States",
+    "coordinates": [
+      39.828175,
+      -98.5795
+    ],
+    "link": "https://en.wikipedia.org/wiki/Just_Us_(duo)",
+    "origin_link": "https://en.wikipedia.org/wiki/United_States"
+  },
+  "Kings of Leon": {
+    "name": "Kings of Leon",
+    "id": "Q192486",
+    "location": "Nashville",
+    "coordinates": [
+      36.16222222222222,
+      -86.77444444444444
+    ],
+    "link": "https://en.wikipedia.org/wiki/Kings_of_Leon",
+    "origin_link": "https://en.wikipedia.org/wiki/Nashville,_Tennessee"
+  },
+  "Dusky": {
+    "name": "Dusky",
+    "id": "Q16249370",
+    "location": "United Kingdom",
+    "coordinates": [
+      54.6,
+      -2
+    ],
+    "link": "https://en.wikipedia.org/wiki/Dusky",
+    "origin_link": "https://en.wikipedia.org/wiki/United_Kingdom"
+  },
+  "The Flight": {
+    "name": "The Flight",
+    "id": "Q65121263",
+    "location": "United Kingdom",
+    "coordinates": [
+      54.6,
+      -2
+    ],
+    "link": "https://en.wikipedia.org/wiki/The_Flight_(band)",
+    "origin_link": "https://en.wikipedia.org/wiki/United_Kingdom"
+  },
+  "Da Yoopers": {
+    "name": "Da Yoopers",
+    "id": "Q5207332",
+    "location": "United States",
+    "coordinates": [
+      39.828175,
+      -98.5795
+    ],
+    "link": "https://en.wikipedia.org/wiki/Da_Yoopers",
+    "origin_link": "https://en.wikipedia.org/wiki/United_States"
+  },
+  "All About Eve": {
+    "name": "All About Eve",
+    "id": "Q1284998",
+    "location": "United Kingdom",
+    "coordinates": [
+      54.6,
+      -2
+    ],
+    "link": "https://en.wikipedia.org/wiki/All_About_Eve_(band)",
+    "origin_link": "https://en.wikipedia.org/wiki/United_Kingdom"
+  },
+  "Lykke Li": {
+    "name": "Lykke Li",
+    "id": "Q270724",
+    "location": "Sofia church parish",
+    "coordinates": [
+      59.31243889,
+      18.07555278
+    ],
+    "link": "https://en.wikipedia.org/wiki/Lykke_Li",
+    "origin_link": null
+  },
+  "Amy Macdonald": {
+    "name": "Amy Macdonald",
+    "id": "Q15902",
+    "location": "Bishopbriggs",
+    "coordinates": [
+      55.9046,
+      -4.225
+    ],
+    "link": "https://en.wikipedia.org/wiki/Amy_Macdonald",
+    "origin_link": "https://en.wikipedia.org/wiki/Bishopbriggs"
+  },
+  "Dua Lipa": {
+    "name": "Dua Lipa",
+    "id": "Q21914464",
+    "location": "London",
+    "coordinates": [
+      51.507222222222,
+      -0.1275
+    ],
+    "link": "https://en.wikipedia.org/wiki/Dua_Lipa",
+    "origin_link": "https://en.wikipedia.org/wiki/London"
+  },
+  "Goldfrapp": {
+    "name": "Goldfrapp",
+    "id": "Q606250",
+    "location": "London",
+    "coordinates": [
+      51.507222222222,
+      -0.1275
+    ],
+    "link": "https://en.wikipedia.org/wiki/Goldfrapp",
+    "origin_link": "https://en.wikipedia.org/wiki/London"
+  },
+  "Rat Boy": {
+    "name": "Rat Boy",
+    "id": "Q7295378",
+    "location": "Chelmsford",
+    "coordinates": [
+      51.7361,
+      0.4798
+    ],
+    "link": "https://en.wikipedia.org/wiki/Rat_Boy",
+    "origin_link": "https://en.wikipedia.org/wiki/Chelmsford"
+  },
+  "Roxy Music": {
+    "name": "Roxy Music",
+    "id": "Q334648",
+    "location": "London",
+    "coordinates": [
+      51.507222222222,
+      -0.1275
+    ],
+    "link": "https://en.wikipedia.org/wiki/Roxy_Music",
+    "origin_link": "https://en.wikipedia.org/wiki/London"
+  },
+  "CHVRCH\u039eS": {
+    "name": "Chvrches",
+    "id": "Q5118436",
+    "location": "Glasgow",
+    "coordinates": [
+      55.861111111111114,
+      -4.25
+    ],
+    "link": "https://en.wikipedia.org/wiki/Chvrches",
+    "origin_link": "https://en.wikipedia.org/wiki/Glasgow"
+  },
+  "Hak Baker": {
+    "name": "Hak Baker",
+    "id": "Q120129159",
+    "location": "Luton",
+    "coordinates": [
+      51.8911,
+      -0.42793
+    ],
+    "link": "https://en.wikipedia.org/wiki/Hak_Baker",
+    "origin_link": "https://en.wikipedia.org/wiki/Borough_of_Luton"
+  }
+}
