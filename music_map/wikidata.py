@@ -36,6 +36,9 @@ from urllib.parse import urlparse
 # 3rd party
 from requests import Session
 
+# this package
+from music_map import __version__
+
 __all__ = ["WikidataAPI", "get_english_label", "get_origin_id", "get_start_year"]
 
 
@@ -93,6 +96,8 @@ class WikidataAPI:
 
 	def __init__(self, session: Session):
 		self.session = session
+		user_agent = f"music-map/{__version__} (https://github.com/domdfcoding/music-map; dominic@davis-foster.co.uk)"
+		self.session.headers.update({"User-Agent": user_agent})
 
 	def query_sparql(self, query: str) -> dict[str, Any]:
 		"""

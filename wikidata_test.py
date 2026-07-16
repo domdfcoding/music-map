@@ -15,7 +15,6 @@ from music_map.wikidata import WikidataAPI
 headers = {
 		"Content-Type": "application/json",
 		"Authorization": f'Bearer {access_token}',
-		"User-Agent": "music-map/0.0.0 (https://github.com/domdfcoding/music-map; dominic@davis-foster.co.uk)",
 		}
 
 sess = CacheControl(requests.Session(), cache=SeparateBodyFileCache("wikidata_cache"))
