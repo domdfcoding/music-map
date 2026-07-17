@@ -9,6 +9,11 @@ music-map
 .. end short_desc
 
 
+`View the demo here`_, but don't judge my music taste.
+
+.. _View the demo here: https://domdfcoding.github.io/music-map/
+
+
 .. start shields
 
 .. list-table::
