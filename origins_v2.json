@@ -2352,5 +2352,181 @@
     ],
     "link": "https://en.wikipedia.org/wiki/Bob_Dylan",
     "origin_link": "https://en.wikipedia.org/wiki/Duluth,_Minnesota"
+  },
+  "Benny Benassi": {
+    "name": "Benny Benassi",
+    "id": "Q311842",
+    "location": "Reggio Emilia",
+    "coordinates": [
+      44.7,
+      10.633333333333
+    ],
+    "link": "https://en.wikipedia.org/wiki/Benny_Benassi",
+    "origin_link": "https://en.wikipedia.org/wiki/Reggio_Emilia"
+  },
+  "Lost Frequencies": {
+    "name": "Lost Frequencies",
+    "id": "Q18857432",
+    "location": "Brussels",
+    "coordinates": [
+      50.846666666666664,
+      4.351666666666667
+    ],
+    "link": "https://en.wikipedia.org/wiki/Lost_Frequencies",
+    "origin_link": "https://en.wikipedia.org/wiki/City_of_Brussels"
+  },
+  "Pet Shop Boys": {
+    "name": "Pet Shop Boys",
+    "id": "Q485625",
+    "location": "London",
+    "coordinates": [
+      51.507222222222,
+      -0.1275
+    ],
+    "link": "https://en.wikipedia.org/wiki/Pet_Shop_Boys",
+    "origin_link": "https://en.wikipedia.org/wiki/London"
+  },
+  "Nirvana": {
+    "name": "Nirvana",
+    "id": "Q11649",
+    "location": "Aberdeen",
+    "coordinates": [
+      46.97536111111111,
+      -123.81572222222222
+    ],
+    "link": "https://en.wikipedia.org/wiki/Nirvana_(band)",
+    "origin_link": "https://en.wikipedia.org/wiki/Aberdeen,_Washington"
+  },
+  "Zedd": {
+    "name": "Zedd",
+    "id": "Q21088",
+    "location": "Saratov",
+    "coordinates": [
+      51.53,
+      46.035
+    ],
+    "link": "https://en.wikipedia.org/wiki/Zedd",
+    "origin_link": "https://en.wikipedia.org/wiki/Saratov"
+  },
+  "Ringo Starr": {
+    "name": "Ringo Starr",
+    "id": "Q2632",
+    "location": "Liverpool",
+    "coordinates": [
+      53.407222222222224,
+      -2.9916666666666667
+    ],
+    "link": "https://en.wikipedia.org/wiki/Ringo_Starr",
+    "origin_link": "https://en.wikipedia.org/wiki/Liverpool"
+  },
+  "Dion": {
+    "name": "Dion DiMucci",
+    "id": "Q1226921",
+    "location": "The Bronx",
+    "coordinates": [
+      40.846666666666664,
+      -73.87333333333333
+    ],
+    "link": "https://en.wikipedia.org/wiki/Dion_DiMucci",
+    "origin_link": "https://en.wikipedia.org/wiki/The_Bronx"
+  },
+  "Saint Motel": {
+    "name": "Saint Motel",
+    "id": "Q7401935",
+    "location": "Los Angeles",
+    "coordinates": [
+      34.05223,
+      -118.24368
+    ],
+    "link": "https://en.wikipedia.org/wiki/Saint_Motel",
+    "origin_link": "https://en.wikipedia.org/wiki/Los_Angeles"
+  },
+  "The Pretty Reckless": {
+    "name": "The Pretty Reckless",
+    "id": "Q837300",
+    "location": "New York City",
+    "coordinates": [
+      40.71277777777778,
+      -74.00611111111111
+    ],
+    "link": "https://en.wikipedia.org/wiki/The_Pretty_Reckless",
+    "origin_link": "https://en.wikipedia.org/wiki/New_York_City"
+  },
+  "Paul McCartney": {
+    "name": "Paul McCartney",
+    "id": "Q2599",
+    "location": "Walton Hospital",
+    "coordinates": [
+      53.450885,
+      -2.969255
+    ],
+    "link": "https://en.wikipedia.org/wiki/Paul_McCartney",
+    "origin_link": null
+  },
+  "The Flaming Lips": {
+    "name": "The Flaming Lips",
+    "id": "Q523184",
+    "location": "Oklahoma City",
+    "coordinates": [
+      35.48222222222222,
+      -97.53527777777778
+    ],
+    "link": "https://en.wikipedia.org/wiki/The_Flaming_Lips",
+    "origin_link": "https://en.wikipedia.org/wiki/Oklahoma_City"
+  },
+  "Jake Bugg": {
+    "name": "Jake Bugg",
+    "id": "Q1320912",
+    "location": "Clifton",
+    "coordinates": [
+      52.91,
+      -1.19
+    ],
+    "link": "https://en.wikipedia.org/wiki/Jake_Bugg",
+    "origin_link": "https://en.wikipedia.org/wiki/Clifton,_Nottingham"
+  },
+  "Petula Clark": {
+    "name": "Petula Clark",
+    "id": "Q236212",
+    "location": "Ewell",
+    "coordinates": [
+      51.3502,
+      -0.2486
+    ],
+    "link": "https://en.wikipedia.org/wiki/Petula_Clark",
+    "origin_link": "https://en.wikipedia.org/wiki/Ewell"
+  },
+  "Milky Chance": {
+    "name": "Milky Chance",
+    "id": "Q14623684",
+    "location": "Kassel",
+    "coordinates": [
+      51.315777777778,
+      9.4979166666667
+    ],
+    "link": "https://en.wikipedia.org/wiki/Milky_Chance",
+    "origin_link": "https://en.wikipedia.org/wiki/Kassel"
+  },
+  "Corona": {
+    "name": "Corona",
+    "id": "Q282784",
+    "location": "Italy",
+    "coordinates": [
+      42.5,
+      12.5
+    ],
+    "link": "https://en.wikipedia.org/wiki/Corona_(band)",
+    "origin_link": "https://en.wikipedia.org/wiki/Italy"
+  },
+  "Eric Prydz": {
+    "name": "Eric Prydz",
+    "id": "Q155141",
+    "location": "T\u00e4by",
+    "coordinates": [
+      59.433333333333,
+      18.083333333333
+    ],
+    "link": "https://en.wikipedia.org/wiki/Eric_Prydz",
+    "origin_link": "https://en.wikipedia.org/wiki/T%C3%A4by"
   }
 }
