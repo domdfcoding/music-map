@@ -53,7 +53,7 @@ def iter_artists(path: PathPlus) -> Iterator[str]:
 		if "TPE1" not in tags:
 			continue
 
-		artist: str = tags["TPE1"].text[0]
+		artist: str = tags["TPE1"].text[0].strip()
 		if artist in artists:
 			continue
 
