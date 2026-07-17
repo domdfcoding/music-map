@@ -17,14 +17,14 @@
             <meta name="viewport" content="width=device-width,
                 initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
             <style>
-                #map_0125d8a7d5e6951054fe0cab9b68c771 {
+                #map_05596d205dce0a3290a4175ffc9c5796 {
                     position: relative;
                     width: 100.0%;
                     height: 100.0%;
                     left: 0.0%;
                     top: 0.0%;
                 }
-                .leaflet-container { font-size: 1rem; }
+                .leaflet-container { font-size: 1.3rem; }
             </style>
 
             <style>html, body {
@@ -72,11 +72,35 @@
     <script src="https://unpkg.com/leaflet-geosearch@4.4.0/dist/bundle.min.js"></script>
     <script src="https://cdn.jsdelivr.net/gh/domdfcoding/folium-map-search@v0.1.0b6/folium_map_search/folium-map-search.bundle.min.js"></script>
     <link rel="stylesheet" href="https://unpkg.com/leaflet-geosearch@4.4.0/dist/geosearch.css"/>
+
+				<style>
+
+.leaflet-popup-close-button {
+	margin-right: 4px;
+	margin-top: 4px;
+
+	span {
+		font-size: 24px;
+	}
+}
+
+.leaflet-control.geosearch form {
+	input {
+		font-size: 14px !important;
+	}
+
+	.results.active {
+		font-size: 14px;
+	}
+}
+
+				</style>
+
 </head>
 <body>
 
 
-            <div class="folium-map" id="map_0125d8a7d5e6951054fe0cab9b68c771" ></div>
+            <div class="folium-map" id="map_05596d205dce0a3290a4175ffc9c5796" ></div>
 
 </body>
 <script>
@@ -92,8 +116,8 @@
             var urlZoomState = zoomStateFromURL(defaultZoom, L.latLng([25.0, 0.0]));
             mapOptions["zoom"] = urlZoomState["zoomLvl"]
 
-            var map_0125d8a7d5e6951054fe0cab9b68c771 = L.map(
-                "map_0125d8a7d5e6951054fe0cab9b68c771",
+            var map_05596d205dce0a3290a4175ffc9c5796 = L.map(
+                "map_05596d205dce0a3290a4175ffc9c5796",
                 {
                     center: urlZoomState["centre"],
                     crs: L.CRS.EPSG3857,
@@ -106,24 +130,25 @@
 
 
 
-            var tile_layer_b1bdbd60165c1043da694a3069db1620 = L.tileLayer(
+            var tile_layer_osm_carto = L.tileLayer(
                 "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
                 {
   "minZoom": 0,
   "maxZoom": 19,
   "maxNativeZoom": 19,
   "noWrap": false,
-  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "attribution": "Map \u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors | Data from \u003ca href=\"wikidata.org\"\u003eWikidata\u003c/a\u003e",
   "subdomains": "abc",
   "detectRetina": false,
   "tms": false,
   "opacity": 1,
+  "referrerPolicy": "strict-origin-when-cross-origin",
 }
 
             );
 
 
-            tile_layer_b1bdbd60165c1043da694a3069db1620.addTo(map_0125d8a7d5e6951054fe0cab9b68c771);
+            tile_layer_osm_carto.addTo(map_05596d205dce0a3290a4175ffc9c5796);
 
 
             var marker_cluster_artists = L.markerClusterGroup(
@@ -5482,22 +5507,22 @@
 
 
 
-            marker_cluster_artists.addTo(map_0125d8a7d5e6951054fe0cab9b68c771);
+            marker_cluster_artists.addTo(map_05596d205dce0a3290a4175ffc9c5796);
 
 
 
-			setupZoomState(map_0125d8a7d5e6951054fe0cab9b68c771);
+			setupZoomState(map_05596d205dce0a3290a4175ffc9c5796);
 
 
 
 				var reset_view_control_59ced01963fee5a81f1351565b80c730 = new ResetViewControl(
 					{"centre": [25, 0], "icon": "fa-solid fa-arrow-rotate-left", "zoom": 3}
-				).addTo(map_0125d8a7d5e6951054fe0cab9b68c771);
+				).addTo(map_05596d205dce0a3290a4175ffc9c5796);
 
 
 				var map_search_control_a2392416ac56cce778717675bbc82ad1 = L.MapSearchControl({
 					provider: new L.MapSearchProvider({
-				map: map_0125d8a7d5e6951054fe0cab9b68c771,
+				map: map_05596d205dce0a3290a4175ffc9c5796,
 				layer: marker_cluster_artists,
 				...{"featureType": "settlement"},
 				}),
@@ -5506,9 +5531,12 @@
 				)
 
 				// Close search box when map clicked.
-				map_0125d8a7d5e6951054fe0cab9b68c771.on('click', map_search_control_a2392416ac56cce778717675bbc82ad1.close, map_search_control_a2392416ac56cce778717675bbc82ad1);
+				map_05596d205dce0a3290a4175ffc9c5796.on('click', map_search_control_a2392416ac56cce778717675bbc82ad1.close, map_search_control_a2392416ac56cce778717675bbc82ad1);
 
-				map_search_control_a2392416ac56cce778717675bbc82ad1.addTo(map_0125d8a7d5e6951054fe0cab9b68c771);
+				map_search_control_a2392416ac56cce778717675bbc82ad1.addTo(map_05596d205dce0a3290a4175ffc9c5796);
+
+
+
 
 </script>
 </html>

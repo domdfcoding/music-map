@@ -31,7 +31,8 @@ from typing import Any
 
 # 3rd party
 import folium
-from domdf_folium_tools.elements import add_to
+from domdf_folium_tools import EmbeddedCSSJS
+from domdf_folium_tools.elements import add_to, set_id
 from folium.plugins import MarkerCluster
 from folium_map_search import MapSearchControl, MapSearchProvider
 from folium_reset_control import ResetViewControl
@@ -61,7 +62,24 @@ def make_map(origins: dict[str, Any]) -> folium.Map:
 
 	zoom_start = 3
 	map_centre = (25, 0)
-	m = ZoomStateMap(map_centre, maxZoom=13, zoom_start=zoom_start)
+
+	osm_tiles = set_id(
+			folium.TileLayer(
+					tiles="OpenStreetMap",
+					name="OpenStreetMap",
+					referrerPolicy="strict-origin-when-cross-origin",
+					attr='Map &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors | Data from <a href="wikidata.org">Wikidata</a>',
+					),
+			"osm_carto",
+			)
+
+	m = ZoomStateMap(
+			map_centre,
+			maxZoom=13,
+			zoom_start=zoom_start,
+			font_size="1.3rem",
+			tiles=osm_tiles,
+			)
 
 	mc = add_to(MarkerCluster(), m, "artists")
 	ZoomStateJS().add_to(m)
@@ -87,5 +105,28 @@ def make_map(origins: dict[str, Any]) -> folium.Map:
 						),
 				search_name=band,
 				).add_to(mc)
+
+	custom_css = """
+.leaflet-popup-close-button {
+	margin-right: 4px;
+	margin-top: 4px;
+
+	span {
+		font-size: 24px;
+	}
+}
+
+.leaflet-control.geosearch form {
+	input {
+		font-size: 14px !important;
+	}
+
+	.results.active {
+		font-size: 14px;
+	}
+}
+"""
+
+	EmbeddedCSSJS(custom_css=custom_css).add_to(m)
 
 	return m
