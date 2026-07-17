@@ -210,6 +210,7 @@ class WikidataAPI:
 				# print("No English Wikipedia article, skipping")
 				continue
 
+			# TODO: use mediawiki link if there's no origin link
 			candidates.append({
 					"name": artist_name,
 					"id": json_response["id"],

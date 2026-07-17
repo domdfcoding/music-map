@@ -97,12 +97,15 @@ def make_map(origins: dict[str, Any]) -> folium.Map:
 
 	for band, band_data in origins.items():
 
+		popup_html = "<h3><a href='{link}'>{name}</a></h3>".format_map(band_data)
+		if band_data["origin_link"]:
+			popup_html += "<h4><a href='{origin_link}'>{location}</a></h4>".format_map(band_data)
+		else:
+			popup_html += "<h4>{location}</h4>".format_map(band_data)
+
 		folium.Marker(
 				band_data["coordinates"],
-				popup=popup(
-						"<h3><a href='{link}'>{name}</a></h3><h4><a href='{origin_link}'>{location}</a></h4>"
-						.format_map(band_data),
-						),
+				popup=popup(popup_html),
 				search_name=band,
 				).add_to(mc)
 
