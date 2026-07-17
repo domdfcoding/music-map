@@ -86,3 +86,4 @@ Pipfile.lock
 .pyre/
 wikidata_cache/
 old/
+config.toml

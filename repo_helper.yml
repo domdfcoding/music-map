@@ -25,3 +25,4 @@ python_versions:
 additional_ignore:
  - wikidata_cache/
  - old/
+ - config.toml

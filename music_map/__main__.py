@@ -26,6 +26,9 @@ Generate a map showing where artists in your music collection come from.
 #  OR OTHER DEALINGS IN THE SOFTWARE.
 #
 
+# stdlib
+from typing import Any
+
 # 3rd party
 import click
 from consolekit import CONTEXT_SETTINGS, SuggestionGroup, click_group
@@ -46,10 +49,19 @@ def main() -> None:
 	"""
 
 
-@click.option("--token", "-t", "access_token", help="Wikidata API OAuth access token", envvar="WIKIDATA_TOKEN")
+# TODO: data dir option?
+
+
+@auto_default_option(
+		"--token",
+		"-t",
+		"access_token",
+		help="Wikidata API OAuth access token",
+		envvar="WIKIDATA_TOKEN",
+		)
 @click.argument("music_directory")
 @main.command()
-def prepare_data(music_directory: PathLike, access_token: str) -> None:
+def prepare_data(music_directory: PathLike, access_token: str | None = None) -> None:
 	"""
 	Prepare data for the map.
 	"""
@@ -59,22 +71,25 @@ def prepare_data(music_directory: PathLike, access_token: str) -> None:
 	import time
 
 	# 3rd party
-	import requests
-	from cachecontrol import CacheControl
-	from cachecontrol.caches import SeparateBodyFileCache
+	import dom_toml
 	from domdf_python_tools.paths import PathPlus
 
 	# this package
 	from music_map.mp3 import iter_artists
-	from music_map.wikidata import WikidataAPI
+	from music_map.wikidata import WikidataAPI, create_session
 
-	headers = {
-			"Content-Type": "application/json",
-			"Authorization": f'Bearer {access_token}',
-			}
+	music_dir_or_config = PathPlus(music_directory)
+	if music_dir_or_config.is_file():
+		config: dict[str, Any] = dom_toml.load(music_dir_or_config)
+		access_token = access_token or config.get("access_token")
+		music_dir = PathPlus(config.get("music_directory", '.')).expanduser()
+	else:
+		music_dir = music_dir_or_config
 
-	sess = CacheControl(requests.Session(), cache=SeparateBodyFileCache("wikidata_cache"))
-	sess.headers.update(headers)
+	if not access_token:
+		raise click.UsageError("No Wikidata access token provided")
+
+	sess = create_session(access_token)
 
 	origins_datafile = PathPlus("origins_v2.json")
 	if origins_datafile.exists():
@@ -104,7 +119,7 @@ def prepare_data(music_directory: PathLike, access_token: str) -> None:
 
 	with open("problems.txt", 'w', encoding="UTF-8") as fp:
 
-		for artist in iter_artists(PathPlus(music_directory)):
+		for artist in iter_artists(music_dir):
 			if artist in {"James Morrison", "Alan Walker", "Oscar"}:
 				# TODO: need special handling
 				continue
@@ -126,8 +141,6 @@ def make_map(output_directory: str = "output") -> None:
 	"""
 	Create the map and write associated files.
 	"""
-
-	# TODO: data dir?
 
 	# 3rd party
 	from domdf_folium_tools import set_branca_random_seed

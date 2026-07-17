@@ -34,12 +34,15 @@ from typing import Any
 from urllib.parse import urlparse
 
 # 3rd party
+import requests
+from cachecontrol import CacheControl
+from cachecontrol.caches import SeparateBodyFileCache
 from requests import Session
 
 # this package
 from music_map import __version__
 
-__all__ = ["WikidataAPI", "get_english_label", "get_origin_id", "get_start_year"]
+__all__ = ["WikidataAPI", "create_session", "get_english_label", "get_origin_id", "get_start_year"]
 
 
 def get_start_year(wikidata_data: dict) -> int:
@@ -232,3 +235,22 @@ class WikidataAPI:
 		del artist_data["year"]
 		del artist_data["occupation_codes"]
 		return artist_data
+
+
+def create_session(access_token: str) -> Session:
+	"""
+	Create a caching requests session with authorization headers for Wikidata.
+
+	:param access_token:
+	"""
+
+	headers = {
+			"Content-Type": "application/json",
+			"Authorization": f'Bearer {access_token}',
+			}
+
+	# TODO: user cache dir from platformdirs
+	sess = CacheControl(requests.Session(), cache=SeparateBodyFileCache("wikidata_cache"))
+	sess.headers.update(headers)
+
+	return sess
