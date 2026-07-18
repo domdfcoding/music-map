@@ -474,14 +474,14 @@
   },
   "Brian May": {
     "name": "Brian May",
-    "id": "Q612067",
-    "location": "Adelaide",
+    "id": "Q15873",
+    "location": "Hampton",
     "coordinates": [
-      -34.9275,
-      138.6
+      51.422,
+      -0.3667
     ],
-    "link": "https://en.wikipedia.org/wiki/Brian_May_(Australian_composer)",
-    "origin_link": "https://en.wikipedia.org/wiki/Adelaide"
+    "link": "https://en.wikipedia.org/wiki/Brian_May",
+    "origin_link": "https://en.wikipedia.org/wiki/Hampton,_London"
   },
   "Charles Trenet": {
     "name": "Charles Trenet",
