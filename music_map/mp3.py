@@ -27,6 +27,7 @@ Read artists from MP3 files etc.
 #
 
 # stdlib
+import re
 from collections.abc import Iterator
 
 # 3rd party
@@ -54,10 +55,12 @@ def iter_artists(path: PathPlus) -> Iterator[str]:
 			continue
 
 		artist: str = tags["TPE1"].text[0].strip()
+		artist = re.split("( duet | with | feat| ft)", artist, flags=re.IGNORECASE)[0].strip()
+
 		if artist in artists:
 			continue
 
-		multiple_act_hints = ['/', ", ", " with ", " and ", " feat", " ft", " & ", " vs ", " vs. "]
+		multiple_act_hints = ['/', ", ", " and ", " & ", " vs ", " vs. "]
 		artist_lowercase = artist.lower()
 		if any(h in artist_lowercase for h in multiple_act_hints):
 			continue

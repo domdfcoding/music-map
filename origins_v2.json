@@ -2748,5 +2748,115 @@
     ],
     "link": "https://en.wikipedia.org/wiki/G-Eazy",
     "origin_link": "https://en.wikipedia.org/wiki/Oakland,_California"
+  },
+  "Pete Tong": {
+    "name": "Pete Tong",
+    "id": "Q947180",
+    "location": "Dartford",
+    "coordinates": [
+      51.44444444444444,
+      0.21722222222222223
+    ],
+    "link": "https://en.wikipedia.org/wiki/Pete_Tong",
+    "origin_link": "https://en.wikipedia.org/wiki/Dartford"
+  },
+  "Mark Ronson": {
+    "name": "Mark Ronson",
+    "id": "Q425821",
+    "location": "London",
+    "coordinates": [
+      51.507222222222,
+      -0.1275
+    ],
+    "link": "https://en.wikipedia.org/wiki/Mark_Ronson",
+    "origin_link": "https://en.wikipedia.org/wiki/London"
+  },
+  "The Crickets": {
+    "name": "The Crickets",
+    "id": "Q2143703",
+    "location": "Lubbock",
+    "coordinates": [
+      33.585,
+      -101.845
+    ],
+    "link": "https://en.wikipedia.org/wiki/The_Crickets",
+    "origin_link": "https://en.wikipedia.org/wiki/Lubbock,_Texas"
+  },
+  "DJ Fresh": {
+    "name": "DJ Fresh",
+    "id": "Q941738",
+    "location": "London",
+    "coordinates": [
+      51.507222222222,
+      -0.1275
+    ],
+    "link": "https://en.wikipedia.org/wiki/DJ_Fresh",
+    "origin_link": "https://en.wikipedia.org/wiki/London"
+  },
+  "KDA": {
+    "name": "KDA",
+    "id": "Q21189414",
+    "location": "London",
+    "coordinates": [
+      51.507222222222,
+      -0.1275
+    ],
+    "link": "https://en.wikipedia.org/wiki/KDA_(DJ)",
+    "origin_link": "https://en.wikipedia.org/wiki/London"
+  },
+  "Flume": {
+    "name": "Flume",
+    "id": "Q4038837",
+    "location": "Sydney",
+    "coordinates": [
+      -33.867777777777775,
+      151.21
+    ],
+    "link": "https://en.wikipedia.org/wiki/Flume_(musician)",
+    "origin_link": "https://en.wikipedia.org/wiki/Sydney"
+  },
+  "Eminem": {
+    "name": "Eminem",
+    "id": "Q5608",
+    "location": "St. Joseph",
+    "coordinates": [
+      39.76861111111111,
+      -94.84663888888889
+    ],
+    "link": "https://en.wikipedia.org/wiki/Eminem",
+    "origin_link": "https://en.wikipedia.org/wiki/St._Joseph,_Missouri"
+  },
+  "Jamie xx": {
+    "name": "Jamie xx",
+    "id": "Q263726",
+    "location": "London",
+    "coordinates": [
+      51.507222222222,
+      -0.1275
+    ],
+    "link": "https://en.wikipedia.org/wiki/Jamie_xx",
+    "origin_link": "https://en.wikipedia.org/wiki/London"
+  },
+  "Dizzee Rascal": {
+    "name": "Dizzee Rascal",
+    "id": "Q366506",
+    "location": "Bow",
+    "coordinates": [
+      51.5298,
+      -0.0288
+    ],
+    "link": "https://en.wikipedia.org/wiki/Dizzee_Rascal",
+    "origin_link": "https://en.wikipedia.org/wiki/Bow,_London"
+  },
+  "Jools Holland": {
+    "name": "Jools Holland",
+    "id": "Q181991",
+    "location": "London",
+    "coordinates": [
+      51.507222222222,
+      -0.1275
+    ],
+    "link": "https://en.wikipedia.org/wiki/Jools_Holland",
+    "origin_link": "https://en.wikipedia.org/wiki/London"
   }
 }
