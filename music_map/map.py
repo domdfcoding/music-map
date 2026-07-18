@@ -27,18 +27,45 @@ Map generation functions.
 #
 
 # stdlib
+import base64
 from typing import Any
 
 # 3rd party
 import folium
 from domdf_folium_tools import EmbeddedCSSJS
 from domdf_folium_tools.elements import add_to, set_id
+from domdf_python_tools.compat import importlib_resources
 from folium.plugins import MarkerCluster
+from folium.template import Template
 from folium_map_search import MapSearchControl, MapSearchProvider
 from folium_reset_control import ResetViewControl
 from folium_zoom_state import ZoomStateJS, ZoomStateMap
 
 __all__ = ["make_map", "popup"]
+
+
+def base64_encode(value: str) -> str:
+	"""
+	Encode the given string as base64.
+
+	:param value:
+	"""
+
+	return base64.b64encode(value.encode("utf-8")).decode("utf-8")
+
+
+class SVGFavicon(folium.MacroElement):
+	_template = Template(
+			"""
+{% macro header(this, kwargs) %}
+	<link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,{{ this.svg }}">
+{% endmacro %}
+""",
+			)
+
+	def __init__(self, svg: str):
+		super().__init__()
+		self.svg = base64_encode(svg)
 
 
 def popup(text: str) -> folium.Popup:
@@ -131,5 +158,6 @@ def make_map(origins: dict[str, Any]) -> folium.Map:
 """
 
 	EmbeddedCSSJS(custom_css=custom_css).add_to(m)
+	SVGFavicon(importlib_resources.read_text("music_map", "music-solid.svg")).add_to(m)
 
 	return m

@@ -29,6 +29,7 @@ python-implementations = [ "CPython",]
 platforms = [ "Windows", "macOS", "Linux",]
 license-key = "MIT"
 package = "music_map"
+additional-files = [ "include music_map/music-solid.svg",]
 
 [tool.importcheck]
 

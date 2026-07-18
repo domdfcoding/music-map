@@ -21,6 +21,8 @@ python_versions:
   - "3.12"
   - "3.13"
 
+manifest_additional:
+  - include music_map/music-solid.svg
 
 additional_ignore:
  - wikidata_cache/
