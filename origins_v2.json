@@ -2528,5 +2528,225 @@
     ],
     "link": "https://en.wikipedia.org/wiki/Eric_Prydz",
     "origin_link": "https://en.wikipedia.org/wiki/T%C3%A4by"
+  },
+  "Warren Zevon": {
+    "name": "Warren Zevon",
+    "id": "Q375792",
+    "location": "Chicago",
+    "coordinates": [
+      41.88194444444444,
+      -87.62777777777778
+    ],
+    "link": "https://en.wikipedia.org/wiki/Warren_Zevon",
+    "origin_link": "https://en.wikipedia.org/wiki/Chicago"
+  },
+  "Wolfgang Gartner": {
+    "name": "Wolfgang Gartner",
+    "id": "Q49010",
+    "location": "San Luis Obispo",
+    "coordinates": [
+      35.274166666667,
+      -120.66305555556
+    ],
+    "link": "https://en.wikipedia.org/wiki/Wolfgang_Gartner",
+    "origin_link": "https://en.wikipedia.org/wiki/San_Luis_Obispo,_California"
+  },
+  "Jack White": {
+    "name": "Jack White",
+    "id": "Q70713",
+    "location": "Cologne",
+    "coordinates": [
+      50.942222222222,
+      6.9577777777778
+    ],
+    "link": "https://en.wikipedia.org/wiki/Jack_White_(music_producer)",
+    "origin_link": "https://en.wikipedia.org/wiki/Cologne"
+  },
+  "Savage Garden": {
+    "name": "Savage Garden",
+    "id": "Q493710",
+    "location": "Brisbane",
+    "coordinates": [
+      -27.467777777778,
+      153.02777777778
+    ],
+    "link": "https://en.wikipedia.org/wiki/Savage_Garden",
+    "origin_link": "https://en.wikipedia.org/wiki/Brisbane"
+  },
+  "Peace": {
+    "name": "Peace",
+    "id": "Q7157303",
+    "location": "United States",
+    "coordinates": [
+      39.828175,
+      -98.5795
+    ],
+    "link": "https://en.wikipedia.org/wiki/Peace_(rapper)",
+    "origin_link": "https://en.wikipedia.org/wiki/United_States"
+  },
+  "Eurythmics": {
+    "name": "Eurythmics",
+    "id": "Q207706",
+    "location": "Sunderland",
+    "coordinates": [
+      54.904444444444444,
+      -1.3811111111111112
+    ],
+    "link": "https://en.wikipedia.org/wiki/Eurythmics",
+    "origin_link": "https://en.wikipedia.org/wiki/Sunderland"
+  },
+  "Take That": {
+    "name": "Take That",
+    "id": "Q152066",
+    "location": "Manchester",
+    "coordinates": [
+      53.466666666667,
+      -2.2333333333333
+    ],
+    "link": "https://en.wikipedia.org/wiki/Take_That",
+    "origin_link": "https://en.wikipedia.org/wiki/Manchester"
+  },
+  "Birdy": {
+    "name": "Birdy",
+    "id": "Q288525",
+    "location": "Lymington",
+    "coordinates": [
+      50.75,
+      -1.55
+    ],
+    "link": "https://en.wikipedia.org/wiki/Birdy_(singer)",
+    "origin_link": "https://en.wikipedia.org/wiki/Lymington"
+  },
+  "Rusko": {
+    "name": "Rusko",
+    "id": "Q974298",
+    "location": "Leeds",
+    "coordinates": [
+      53.7975,
+      -1.5436111111111113
+    ],
+    "link": "https://en.wikipedia.org/wiki/Rusko_(musician)",
+    "origin_link": "https://en.wikipedia.org/wiki/Leeds"
+  },
+  "Big Country": {
+    "name": "Big Country",
+    "id": "Q858738",
+    "location": "Dunfermline",
+    "coordinates": [
+      56.071388888889,
+      -3.4616666666667
+    ],
+    "link": "https://en.wikipedia.org/wiki/Big_Country",
+    "origin_link": "https://en.wikipedia.org/wiki/Dunfermline"
+  },
+  "Phantom Planet": {
+    "name": "Phantom Planet",
+    "id": "Q1756608",
+    "location": "Los Angeles County",
+    "coordinates": [
+      34.05,
+      -118.25
+    ],
+    "link": "https://en.wikipedia.org/wiki/Phantom_Planet",
+    "origin_link": "https://en.wikipedia.org/wiki/Los_Angeles_County,_California"
+  },
+  "Porter Robinson": {
+    "name": "Porter Robinson",
+    "id": "Q21084",
+    "location": "Atlanta",
+    "coordinates": [
+      33.754444444444445,
+      -84.38972222222222
+    ],
+    "link": "https://en.wikipedia.org/wiki/Porter_Robinson",
+    "origin_link": "https://en.wikipedia.org/wiki/Atlanta"
+  },
+  "Lianne La Havas": {
+    "name": "Lianne La Havas",
+    "id": "Q451812",
+    "location": "London",
+    "coordinates": [
+      51.507222222222,
+      -0.1275
+    ],
+    "link": "https://en.wikipedia.org/wiki/Lianne_La_Havas",
+    "origin_link": "https://en.wikipedia.org/wiki/London"
+  },
+  "Willy Moon": {
+    "name": "Willy Moon",
+    "id": "Q14042",
+    "location": "Wellington",
+    "coordinates": [
+      -41.288888888889,
+      174.77722222222
+    ],
+    "link": "https://en.wikipedia.org/wiki/Willy_Moon",
+    "origin_link": "https://en.wikipedia.org/wiki/Wellington"
+  },
+  "The Zombies": {
+    "name": "The Zombies",
+    "id": "Q1163207",
+    "location": "St Albans",
+    "coordinates": [
+      51.755,
+      -0.336
+    ],
+    "link": "https://en.wikipedia.org/wiki/The_Zombies",
+    "origin_link": "https://en.wikipedia.org/wiki/St_Albans"
+  },
+  "The White Stripes": {
+    "name": "The White Stripes",
+    "id": "Q268160",
+    "location": "Detroit",
+    "coordinates": [
+      42.331666666667,
+      -83.0475
+    ],
+    "link": "https://en.wikipedia.org/wiki/The_White_Stripes",
+    "origin_link": "https://en.wikipedia.org/wiki/Detroit"
+  },
+  "Starship": {
+    "name": "Starship",
+    "id": "Q15706519",
+    "location": "United States",
+    "coordinates": [
+      39.828175,
+      -98.5795
+    ],
+    "link": "https://en.wikipedia.org/wiki/Starship_(band)",
+    "origin_link": "https://en.wikipedia.org/wiki/United_States"
+  },
+  "Dirty South": {
+    "name": "Dirty South",
+    "id": "Q968306",
+    "location": "Belgrade",
+    "coordinates": [
+      44.81777777777778,
+      20.456944444444446
+    ],
+    "link": "https://en.wikipedia.org/wiki/Dirty_South_(musician)",
+    "origin_link": "https://en.wikipedia.org/wiki/Belgrade"
+  },
+  "The Neighbourhood": {
+    "name": "The Neighbourhood",
+    "id": "Q7753383",
+    "location": "Newbury Park",
+    "coordinates": [
+      34.1842,
+      -118.91
+    ],
+    "link": "https://en.wikipedia.org/wiki/The_Neighbourhood",
+    "origin_link": "https://en.wikipedia.org/wiki/Newbury_Park,_California"
+  },
+  "G-Eazy": {
+    "name": "G-Eazy",
+    "id": "Q5511893",
+    "location": "Oakland",
+    "coordinates": [
+      37.8,
+      -122.25
+    ],
+    "link": "https://en.wikipedia.org/wiki/G-Eazy",
+    "origin_link": "https://en.wikipedia.org/wiki/Oakland,_California"
   }
 }
