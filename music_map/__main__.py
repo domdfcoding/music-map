@@ -110,7 +110,15 @@ def prepare_data(music_directory: PathLike, access_token: str | None = None) -> 
 					("P31", "Q2088357"),  # Musical ensemble
 					("P106/ps:P106", "Q135106813"),  # musical occupation
 					]:
-				data = wd_api.get_artist_data(artist, *code, language)
+
+				try:
+					data = wd_api.get_artist_data(artist, *code, language)
+				except HTTPError as e:
+					if e.response and e.response.status_code in {502, 504}:
+						return None
+					else:
+						raise
+
 				time.sleep(1)
 				if data is not None:
 					return data
