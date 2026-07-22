@@ -34,6 +34,7 @@ import click
 from consolekit import CONTEXT_SETTINGS, SuggestionGroup, click_group
 from consolekit.options import auto_default_option
 from domdf_python_tools.typing import PathLike
+from requests import HTTPError
 
 __all__ = ["main", "make_map", "prepare_data"]
 
