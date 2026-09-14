@@ -36,6 +36,13 @@ from consolekit.options import auto_default_option
 from domdf_python_tools.typing import PathLike
 from requests import HTTPError
 
+try:
+	from dotenv import load_dotenv
+except ImportError:
+	pass
+else:
+	load_dotenv()
+
 __all__ = ["main", "make_map", "prepare_data"]
 
 
