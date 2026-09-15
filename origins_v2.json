@@ -2858,5 +2858,38 @@
     ],
     "link": "https://en.wikipedia.org/wiki/Jools_Holland",
     "origin_link": "https://en.wikipedia.org/wiki/London"
+  },
+  "Jimmy Nail": {
+    "name": "Jimmy Nail",
+    "id": "Q571816",
+    "location": "Newcastle upon Tyne",
+    "coordinates": [
+      54.977777777778,
+      -1.6133333333333
+    ],
+    "link": "https://en.wikipedia.org/wiki/Jimmy_Nail",
+    "origin_link": "https://en.wikipedia.org/wiki/Newcastle_upon_Tyne"
+  },
+  "Blondshell": {
+    "name": "Blondshell",
+    "id": "Q117272643",
+    "location": "New York City",
+    "coordinates": [
+      40.71277777777778,
+      -74.00611111111111
+    ],
+    "link": "https://en.wikipedia.org/wiki/Blondshell",
+    "origin_link": "https://en.wikipedia.org/wiki/New_York_City"
+  },
+  "Ian Noe": {
+    "name": "Ian Noe",
+    "id": "Q64744006",
+    "location": "Beattyville",
+    "coordinates": [
+      37.5772,
+      -83.7097
+    ],
+    "link": "https://en.wikipedia.org/wiki/Ian_Noe",
+    "origin_link": "https://en.wikipedia.org/wiki/Beattyville,_Kentucky"
   }
 }
