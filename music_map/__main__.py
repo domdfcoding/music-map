@@ -37,6 +37,7 @@ from domdf_python_tools.typing import PathLike
 from requests import HTTPError
 
 try:
+	# 3rd party
 	from dotenv import load_dotenv
 except ImportError:
 	pass
